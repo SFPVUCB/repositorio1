@@ -6,5 +6,11 @@ int main ()
     	cout<<"Hola 1"<<endl;
 	cout<<"Hola 2"<<endl;
 
-    return 0;
+    
+}
+int suma(int a, int b)
+{
+         int c;
+         c = a + b;
+         return c;
 }
