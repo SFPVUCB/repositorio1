@@ -5,5 +5,5 @@ int main ()
 {
     var a = 7
     var b = 0	
-    return a+ b;
+    return a- b;
 }
