@@ -4,6 +4,7 @@ Hola mundo
 int main () 
 {
     var a = 5
-    var b = 6	
-    return a+ b;
+    var b = 6
+    var c = 5	
+    return (a+ b)/c;
 }
