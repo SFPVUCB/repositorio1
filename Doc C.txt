@@ -3,6 +3,8 @@ Hola mundo
  
 int main () 
 {
-    std::cout << "Hola, mundo";
+    	cout<<"Hola 1"<<endl;
+	cout<<"Hola 2"<<endl;
+
     return 0;
 }
