@@ -26,6 +26,14 @@
 - Capturar información del registro de los clientes y veterinarios.
 - Producir informes del servicio que brindan los clientes a los usuarios.
 
+**Valor de negocio:**
+Queremos expandirnos más para ayudar a nuestros clientes con sus mascotas para que vivan felices y sanas el mayor tiempo posible.
+Beneficios tangibles: 
+- Aumento en la lista de clientes.
+- Encontrar veterinarias muy acorde a tu necesidad.
+Beneficios intangibles:
+- Ganar reconocimiento a través de la página.
+- Préstamo de servicio de calidad.
 
 
 
