@@ -58,4 +58,12 @@ ROI=0.43 x 100=43%
 
 El proyecto tendrá una inversión inicial de 30.000 $ a 3 años.El análisis de ROI indica que se tendrá un retorno del 43% de lo invertido.
 
+**Viabilidad Organizacional**
+
+- Se espera que los usuarios del sistema,veterinarias y promociones aprecien un portal virtual para ofertar y obtener productos.
+
+- Desde nuestra perspectiva el proyecto tiende a tener un riesgo bajo, ya que se espera que todos los usuarios que utilicen la página obtendrán orientación y consejos para el cuidado de sus mascotas (alimentación y salud).
+
+- Facilitar a los clientes una rápida e instantánea respuesta a problemas comunes y posteriormente, proporcionar a los mismos contactos con veterinarios especializados en dicho problema.
+
 
