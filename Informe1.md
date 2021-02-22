@@ -35,7 +35,7 @@ Beneficios intangibles:
 - Ganar reconocimiento a través de la página.
 - Préstamo de servicio de calidad.
 
-**Problemas o limitaciones especiales: **
+**Problemas o limitaciones especiales:**
 - Limitar a nivel nacional. Para un comienzo el sistema esta disponible para los veterinarios y usuarios bolivianos
 - No se aceptan pagos por el servicios en línea, por tanto el sistema tampoco realizara facturacion.
 - Diagnósticos básicos previa a la consulta física, es decir
