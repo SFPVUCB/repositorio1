@@ -3,3 +3,4 @@
 
 ## Integrantes:
 ### Dennys Michel
+### Eliana Vargas Rojas 
