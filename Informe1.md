@@ -40,3 +40,8 @@ Beneficios intangibles:
 - No se aceptan pagos por el servicios en línea, por tanto el sistema tampoco realizara facturacion.
 - Diagnósticos básicos previa a la consulta física, es decir
 
+| TABLA DE ROI|
+| ----------- | ----------- |
+|  |  |  
+| Beneficios Totales | 0 | 
+| Costos Totales | 30.000 |
