@@ -49,5 +49,10 @@ Beneficios intangibles:
 - Se requerirá la participación de los Veterinarios.
 - Se requerirá un monto de pago por el tiempo de suscripción de cada Veterinario.
 
+**Viabilidad Económica**
+
+Se está usando el análisis de Rendimiento de la inversión, del cual se obtiene lo siguiente:
+![Tabla ROI](tabla1.png)
+
 
 
