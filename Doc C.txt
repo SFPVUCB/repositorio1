@@ -7,5 +7,14 @@ int main ()
  var a = 7
     var b = 0	
     return a- b;
-
+<<<<<<< HEAD
+    var a = 5
+    var b = 6
+    var c = 5	
+    return (a+ b)/c;
+=======
+    var a = 7
+    var b = 0	
+    return a- b;
+>>>>>>> 1df9d2faf5c8b767d5d5460e9a4b1c6143f29be7
 }
