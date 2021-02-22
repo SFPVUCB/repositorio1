@@ -2,4 +2,7 @@
 ## Proyecto:
 
 ## Integrantes:
-### Dennys Michel
+- Dennys Michel
+- Sergio Prudencio
+- 
+-
