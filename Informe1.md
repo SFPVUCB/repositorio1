@@ -11,7 +11,7 @@
 - John Choque
 
 ---
-## **Analisis de Factibilidad** 
+## **Solicitud del sistema** 
 
 **Necesidad de Negocios:**
 - Mejorar y facilitar el acceso a la información en línea.
@@ -40,8 +40,14 @@ Beneficios intangibles:
 - No se aceptan pagos por el servicios en línea, por tanto el sistema tampoco realizara facturacion.
 - Diagnósticos básicos previa a la consulta física, es decir
 
-| TABLA DE ROI|
-| ----------- | ----------- |
-|  |  |  
-| Beneficios Totales | 0 | 
-| Costos Totales | 30.000 |
+## **Analisis de Factibilidad** 
+
+
+**Viabilidad Técnica**
+
+- Las Veterinarias están disponibles para brindar ayuda en esta área. El tamaño del proyecto se considera de riesgo medio a bajo, ya que las limitaciones del proyecto se encuentran a nivel Nacional.
+- Se requerirá la participación de los Veterinarios.
+- Se requerirá un monto de pago por el tiempo de suscripción de cada Veterinario.
+
+
+
