@@ -54,5 +54,8 @@ Beneficios intangibles:
 Se está usando el análisis de Rendimiento de la inversión, del cual se obtiene lo siguiente:
 ![Tabla ROI](tabla1.png)
 
+ROI=0.43 x 100=43% 
+
+El proyecto tendrá una inversión inicial de 30.000 $ a 3 años.El análisis de ROI indica que se tendrá un retorno del 43% de lo invertido.
 
 
