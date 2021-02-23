@@ -1,5 +1,5 @@
-## Nombre del Proyecto:
-## Pagina Base:[barkibu](https://barkibu.com)
+## Nombre del Proyecto: VETCENTERFREE
+## Pagina Base:[barkibu](barkibu.com)
 ### Idea: Consultas veterinarias profesionales online
 
 
@@ -47,7 +47,7 @@ Beneficios intangibles:
 
 - Las Veterinarias están disponibles para brindar ayuda en esta área. El tamaño del proyecto se considera de riesgo medio a bajo, ya que las limitaciones del proyecto se encuentran a nivel Nacional.
 - Se requerirá la participación de los Veterinarios.
-- Se requerirá un monto de pago por el tiempo de suscripción de cada Veterinario.
+- Se pretende obtener un ingreso por promocionar distintas marcas de productos.
 
 **Viabilidad Económica**
 
