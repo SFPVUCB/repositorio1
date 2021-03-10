@@ -1,4 +1,3 @@
-![logocato](logocato.jpg)
 ## Nombre del Proyecto: VETCENTERFREE
 ## Pagina Base:[barkibu](barkibu.com)
 ### Idea: Consultas veterinarias profesionales online

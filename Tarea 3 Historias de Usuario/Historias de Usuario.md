@@ -1,3 +1,5 @@
+![logocato](logocato.jpg)
+
 ## Desarrolladores: 
 ### Grupo 3 FreeVet
 ## Cliente: 
