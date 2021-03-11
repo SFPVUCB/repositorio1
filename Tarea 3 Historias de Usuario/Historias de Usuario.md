@@ -40,6 +40,14 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 3. Bajo: Afecta al núcleo del sistema de forma externa, sin embargo es prescindible.
 
 ## **Historias de usuario**
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
 | **Codigo** | 001 |
 | ------------------------ |
 | **Nombre** | Registro de Usuario - Donante |
