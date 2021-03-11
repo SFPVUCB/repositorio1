@@ -101,8 +101,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Nombre** | Registro de Formulario de Donación  |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Una vez que el Donante identifique el proyecto por el cual optará hacer una donación, deberá registrarse en un formulario, registrar el monto a donar y seleccionar el modo de transferencia. |
-| **Validación** | Para que esta donación se lleve a cabo deberá registrar su nombre completo, sexo, correo electrónico, teléfono, ciudad, seleccionar el monto a donar (no menos de 10 Bs.) y el tipo de transferencia.
-Al seleccionar la modalidad de donación se desplegará una nueva ventana donde se podrá observar los números de cuenta y su descripción. |
+| **Validación** | Para que esta donación se lleve a cabo deberá registrar su nombre completo, sexo, correo electrónico, teléfono, ciudad, seleccionar el monto a donar (no menos de 10 Bs.) y el tipo de transferencia. Al seleccionar la modalidad de donación se desplegará una nueva ventana donde se podrá observar los números de cuenta y su descripción. |
 
 ![RF-12](RF-12.png)
 ![RF-12.1](RF-12.1.png)
@@ -114,8 +113,7 @@ Al seleccionar la modalidad de donación se desplegará una nueva ventana donde 
 | **Nombre** | Registro de Transferencia  |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Se pretende tener un registro de todas las donaciones realizadas, por lo cual cada donante podrá registrar su donación una vez que realice la transferencia.  |
-| **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante.
-El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
+| **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante. El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
 
 ![RF-13](RF-13.png)
 ![RF-13.1](RF-13.1.png)
