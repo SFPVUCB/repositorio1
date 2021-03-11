@@ -95,7 +95,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![RF-11](RF-11.png)
 
-### **12 Formulario de Donaciónes **
+### **12 Formulario de Donaciónes**
 | **Codigo** |	RF-12 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Formulario de Donación  |
@@ -108,7 +108,7 @@ Al seleccionar la modalidad de donación se desplegará una nueva ventana donde 
 ![RF-12.1](RF-12.1.png)
 ![RF-12.2](RF-12.2.png)
 
-### **13 Registro de Transferencia **
+### **13 Registro de Transferencia**
 | **Codigo** |	RF-13 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Transferencia  |
