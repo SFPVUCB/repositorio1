@@ -45,6 +45,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | ----------- | ----------- |
 | **Nombre** | Registro de Usuario - Donante |
 | **Prioridad del Negocio** | Alta/Escencial |
+| **Descripcion** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a paginas y subpáginas. |
 
 | **Codigo** | 001 |
 | **Nombre** | Registro de Usuario - Donante |
