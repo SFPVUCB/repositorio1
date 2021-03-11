@@ -63,7 +63,9 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes modulos de la plataforma |
 | **Validación** | Para esta Vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
+
 ![menu](menu.png)
+
 
 ### **02 Login**
 | **Codigo** |	RF-02 |
@@ -75,12 +77,14 @@ plataforma |
 | **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de
 usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
 obligatorios. |
+
 ![login](login.png)
-![log](log.png)
+
+
 
 ### **Registro de Usuario - Donante**
 
-| **Codigo** | 001 |
+| **Codigo** | RF-03 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Usuario - Donante |
 | **Prioridad del Negocio** | Alta/Escencial |
@@ -91,7 +95,7 @@ obligatorios. |
 
 ### **Registro de Usuario - Artesano**
 
-| **Codigo** | 00 |
+| **Codigo** | RF-04 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Usuario-Artesano  |
 | **Prioridad del Negocio** | Alta/Escencial |
@@ -102,7 +106,7 @@ obligatorios. |
 
 ### **Registro de Usuario - Administrador**
 
-| **Codigo** | 001 |
+| **Codigo** | RF05 |
 | ----------- | ----------- |
 | **Nombre** | Registro de cuenta para administradores |
 | **Prioridad del Negocio** | Alta/Escencial |
@@ -111,6 +115,9 @@ obligatorios. |
 
 
 ![reg_admi](reg_admi.jpg)
+
+
+![log](log.png)
 ### **6 Recuperacion de contraseña**
 | **Codigo** | RF6 |
 | ----------- | ----------- |
