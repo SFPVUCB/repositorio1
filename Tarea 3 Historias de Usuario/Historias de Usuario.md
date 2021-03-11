@@ -30,9 +30,9 @@ Esta plataforma contará con 3 tipos de usuarios:
 
 ## **Objetivo**
 Se identificará los requisitos y para así poder plasmarlos en el presente documento, para posteriormente desarrollar de forma precisa la plataforma requerida y explicar los procesos que esta llevará a  cabo.
-A quién está dirigido
+## **A quién está dirigido**
 Esta plataforma de crowdfunding está dirigida a los artesanos emprendedores que estén buscando recaudar fondos para realizar un emprendimiento, para lo cual ellos plantarán una idea de emprendimiento que será fomentada por donaciones de los usuarios “Donantes” de la plataforma crowfunding.
-Niveles de prioridad
+## **Niveles de prioridad**
 Los niveles de prioridad serán en función al efecto que tenga en el núcleo del sistema, que en esta plataforma sería la publicación y transacción de los productos. Para este sistema se definen los siguientes niveles de prioridad: 
 
 1. Alta: Este módulo afecta al núcleo del sistema directamente, por lo tanto es indispensable.
