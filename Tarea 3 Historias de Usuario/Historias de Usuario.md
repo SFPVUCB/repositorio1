@@ -50,7 +50,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a paginas y subpáginas. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, dirección y contraseña, es necesario leer el contrato digital y aceptar las condiciones del contrato. Los campos deben ser obligatorios y tener carácter valido. |
 
-![RegistroDonador](Registro Donador.jpg)
+![alt text](Registro Donador.jpg)
+
 
 
 ## **Conclusión**
