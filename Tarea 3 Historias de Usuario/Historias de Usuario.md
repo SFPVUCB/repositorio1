@@ -41,12 +41,21 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de usuario**
 | Codigo | 001 |
+
 | ------------------------ |
+
 | Nombre | Registro de Usuario - Donante |
+
 | ------------------------ |
+
 | Prioridad del Negocio | Alta/Escencial |
+
 | ------------------------ |
+
 | Descripcion | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a paginas y subpáginas. |
+
 | ------------------------ |
+
 | Validacion | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, dirección y contraseña, es necesario leer el contrato digital y aceptar las condiciones del contrato. Los campos deben ser obligatorios y tener carácter valido. |
+
 ## **Conclusión**
