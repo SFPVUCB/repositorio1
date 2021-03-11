@@ -59,6 +59,16 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a páginas y subpáginas. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, dirección, cuenta bancaria, contraseña y carga de fotografía. Los campos deben ser obligatorios y tener carácter valido. |
 
+### **Registro de Usuario - Administrador**
+
+| **Codigo** | 001 |
+| ----------- | ----------- |
+| **Nombre** | Registro de cuenta para administradores |
+| **Prioridad del Negocio** | Alta/Escencial |
+| **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso total a páginas y subpáginas y tendrá el control absoluto del sitio web. |
+| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, y contraseña. Los campos deben ser obligatorios y tener carácter valido. |
+
+
 
 
 
