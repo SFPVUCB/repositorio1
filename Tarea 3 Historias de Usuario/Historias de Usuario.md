@@ -153,6 +153,8 @@ Diagrama de Recuperacion de contraseña
 | **Validación** | Para este perfil, el artesano podrá gestionar sus proyectos de manera fácil  a través de un catálogo, el podrá editarlos o agregar un nuevo proyecto. |
 
 ![RF-10](RF-10.png)
+### **Diagrama 10**
+![Diag-10](Diag-10.png)
 
 ### **11 Visualizar perfil de Usuario-Donante**
 | **Codigo** |	RF-11 |
@@ -163,6 +165,8 @@ Diagrama de Recuperacion de contraseña
 | **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
 
 ![RF-11](RF-11.png)
+### **Diagrama 11**
+![Diag-11](Diag-11.png)
 
 ### **12 Formulario de Donaciónes**
 | **Codigo** |	RF-12 |
@@ -175,6 +179,8 @@ Diagrama de Recuperacion de contraseña
 ![RF-12](RF-12.png)
 ![RF-12.1](RF-12.1.png)
 ![RF-12.2](RF-12.2.png)
+### **Diagrama 12**
+![Diag-12](Diag-12.png)
 
 ### **13 Registro de Transferencia**
 | **Codigo** |	RF-13 |
@@ -187,4 +193,6 @@ Diagrama de Recuperacion de contraseña
 ![RF-13](RF-13.png)
 ![RF-13.1](RF-13.1.png)
 ![RF-13.2](RF-13.2.png)
+### **Diagrama 13**
+![Diag-13](Diag-13.png)
 ## **Conclusión**
