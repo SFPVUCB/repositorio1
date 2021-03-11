@@ -41,7 +41,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de usuario**
 
-# **Registro de Usuario - Donante**
+### **Registro de Usuario - Donante**
 
 | **Codigo** | 001 |
 | ----------- | ----------- |
@@ -50,7 +50,17 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a paginas y subpáginas. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, dirección y contraseña, es necesario leer el contrato digital y aceptar las condiciones del contrato. Los campos deben ser obligatorios y tener carácter valido. |
 
-![alt text](Registro Donador.jpg)
+### **Registro de Usuario - Artesano**
+
+| **Codigo** | 00 |
+| ----------- | ----------- |
+| **Nombre** | Registro de Usuario-Artesano  |
+| **Prioridad del Negocio** | Alta/Escencial |
+| **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a páginas y subpáginas. |
+| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, dirección, cuenta bancaria, contraseña y carga de fotografía. Los campos deben ser obligatorios y tener carácter valido. |
+
+
+
 
 
 
