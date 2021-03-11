@@ -41,10 +41,10 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de usuario**
 
-| Syntax | Description |
+| **Codigo**  | 001 |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| **Nombre** | Registro de Usuario - Donante |
+| **Prioridad del Negocio** | Alta/Escencial |
 
 
 
