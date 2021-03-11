@@ -82,7 +82,7 @@ obligatorios. |
 
 
 
-### **Registro de Usuario - Donante**
+### **03 Registro de Usuario - Donante**
 
 | **Codigo** | RF-03 |
 | ----------- | ----------- |
@@ -93,7 +93,7 @@ obligatorios. |
 
 ![reg_donador](reg_donador.jpg)
 
-### **Registro de Usuario - Artesano**
+### **04 Registro de Usuario - Artesano**
 
 | **Codigo** | RF-04 |
 | ----------- | ----------- |
@@ -104,7 +104,7 @@ obligatorios. |
 
 ![reg_artesano](reg_artesano.jpg)
 
-### **Registro de Usuario - Administrador**
+### **05 Registro de Usuario - Administrador**
 
 | **Codigo** | RF05 |
 | ----------- | ----------- |
