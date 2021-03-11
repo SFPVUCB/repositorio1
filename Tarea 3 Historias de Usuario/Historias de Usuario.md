@@ -42,9 +42,9 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 ## **Historias de usuario**
 
 | Syntax | Description |
+| ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-
 
 | **Codigo** | 001 |
 | **Nombre** | Registro de Usuario - Donante |
