@@ -85,4 +85,14 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![RF-10](RF-10.png)
 
+### **11 Visualizar perfil de Usuario-Donante**
+| **Codigo** |	RF-11 |
+| ----------- | ----------- |
+| **Nombre** | Perfil de usuario-Donante |
+| **Prioridad del Negocio** |	Alta/Escencial |
+| **Descripción** | Cada donante registrado contará con un perfil personal donde podrá ver todos aquellos proyectos que hizo alguna donación y así poder hacer seguimiento del proyecto. |
+| **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
+
+![RF-11](RF-11.png)
+
 ## **Conclusión**
