@@ -61,6 +61,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a páginas y subpáginas. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, dirección, cuenta bancaria, contraseña y carga de fotografía. Los campos deben ser obligatorios y tener carácter valido. |
 
+![reg_artesano](reg_artesano.jpg)
+
 ### **Registro de Usuario - Administrador**
 
 | **Codigo** | 001 |
@@ -71,7 +73,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, y contraseña. Los campos deben ser obligatorios y tener carácter valido. |
 
 
-
+![reg_admi](reg_admi.jpg)
 
 
 
