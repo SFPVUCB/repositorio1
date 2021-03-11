@@ -97,6 +97,53 @@ obligatorios. |
 
 ![reg_admi](reg_admi.jpg)
 
+| **Codigo** | RF6 |
+| ----------- | ----------- |
+| **Nombre** | Recuperacion de contraseña |
+| **Prioridad del Negocio** | Mediano/Deseado |
+| **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad. |
+| **Validación** | Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio de sesión o cuando se equivoque tres veces al momento de realizar este último. Para esta función, el sistema le pedirá la respuesta a su pregunta seguridad y su nueva contraseña. La contraseña tendrá que tener el mismo formato que al crear una cuenta. Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso. |
+![RF6](RF6.png)
+### **Figura**
+![RF6](RF62.png)
+### **Figura**
+![RF6](RF63.png)
+### **Figura**
+![RF6](RF64.png)
+### **Figura**
+![RF6](RF61.jpg)
+### **Figura**
+Diagrama de Recuperacion de contraseña
+
+| **Codigo** | RF8 |
+| ----------- | ----------- |
+| **Nombre** | Visualizacion del proyecto |
+| **Prioridad del Negocio** | Mediano/Deseado |
+| **Descripción** | En este apartado el artesano puede ver el estado de proyecto con todos los datos que lleno al registrar su proyecto. |
+| **Validación** | El usuario puede observar los datos del proyecto como ser:
+- Descripción.
+- Fotos.
+- Monto Requerido.
+- Monto Recaudado (Hasta el momento). |
+
+![RF8](RF8.jpg)
+### **Figura**
+
+
+| **Codigo** | RF9 |
+| ----------- | ----------- |
+| **Nombre** | Edicion del proyecto |
+| **Prioridad del Negocio** | Alto/Escencial |
+| **Descripción** | El artesano puede editar los datos de su proyecto, una vez que ya este creado dicho proyecto. Esta función esta disponible como un botón en el anterior requerimiento. |
+| **Validación** | En el mockup se observa como el artesano puede editar los datos de un proyecto como ser:
+- Monto Requerido
+- Descripccion 
+- Borra fotos
+- Subir fotos |
+
+![RF9](RF9.jpg)
+### **Figura**
+
 ### **10 Visualizar perfil de Usuario-Artesano**
 | **Codigo** |	RF-10 |
 | ----------- | ----------- |
