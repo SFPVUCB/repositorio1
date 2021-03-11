@@ -75,7 +75,14 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![reg_admi](reg_admi.jpg)
 
+### **10 Visualizar perfil de Usuario-Artesano**
+| **Codigo** |	RF-10 |
+| ----------- | ----------- |
+| **Nombre** | Perfil de usuario-Artesano |
+| **Prioridad del Negocio** |	Alta/Escencial |
+| **Descripción** | Cada artesano registrado contará con un perfil único donde podrá visualizar solo sus proyectos publicados. |
+| **Validación** | Para este perfil, el artesano podrá gestionar sus proyectos de manera fácil  a través de un catálogo, el podrá editarlos o agregar un nuevo proyecto. |
 
-
+![RF-10](RF-10.png)
 
 ## **Conclusión**
