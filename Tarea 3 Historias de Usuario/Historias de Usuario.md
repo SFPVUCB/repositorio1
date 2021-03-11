@@ -95,7 +95,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![RF-11](RF-11.png)
 
-### **12 Formulario de Donación **
+### **12 Formulario de Donaciónes **
 | **Codigo** |	RF-12 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Formulario de Donación  |
@@ -107,4 +107,17 @@ Al seleccionar la modalidad de donación se desplegará una nueva ventana donde 
 ![RF-12](RF-12.png)
 ![RF-12.1](RF-12.1.png)
 ![RF-12.2](RF-12.2.png)
+
+### **13 Registro de Transferencia **
+| **Codigo** |	RF-13 |
+| ----------- | ----------- |
+| **Nombre** | Registro de Transferencia  |
+| **Prioridad del Negocio** |	Alta/Escencial |
+| **Descripción** | Se pretende tener un registro de todas las donaciones realizadas, por lo cual cada donante podrá registrar su donación una vez que realice la transferencia.  |
+| **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante.
+El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
+
+![RF-13](RF-13.png)
+![RF-13.1](RF-13.1.png)
+![RF-13.2](RF-13.2.png)
 ## **Conclusión**
