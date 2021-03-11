@@ -134,9 +134,20 @@ obligatorios. |
 ### **Figura**
 ![RF6](RF64.png)
 ### **Figura**
-![RF6](RF61.jpg)
+![RF6](RF61.JPG)
 ### **Figura**
 Diagrama de Recuperacion de contraseña
+
+### **07 Registro de proyectos**
+
+| **Codigo** | RF-07 |
+| ----------- | ----------- |
+| **Nombre** | Registro de Proyectos |
+| **Prioridad del Negocio** | Alta/Escencial |
+| **Descripción** |En esta plataforma se muestrar los diferentes proyectos que fueron registraados  |
+| **Validación** | La platoforma muestra los registros de los diferentes ususarios  |
+
+![registro](registro.png)
 
 ### **8 Visualizacion del proyecto**
 
