@@ -12,6 +12,21 @@
 - John Choque
 - Dennys Michel
 ---
+# **Indice de Historias de Usuario**
+- Pagina principal
+- Inicio de Sesion
+- Registro del Artesano
+- Registro de Donador
+- Registro del Administrador
+- Recuperar contraseña
+- Registrar Proyecto
+- Visualizacion del proyecto
+- Edicion del proyecto
+- Visualizacion del perfil del artesano
+- Visualizacion del perfil del donante
+- Formulario de donaciones
+- Registro de transferencia
+---
 ## **Introducción**
 
 En el presente documento se puede observar las historias de Usuario para la plataforma de crowdfunding “Waliky”.
@@ -96,13 +111,14 @@ obligatorios. |
 
 
 ![reg_admi](reg_admi.jpg)
-
+### **6 Recuperacion de contraseña**
 | **Codigo** | RF6 |
 | ----------- | ----------- |
 | **Nombre** | Recuperacion de contraseña |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad. |
 | **Validación** | Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio de sesión o cuando se equivoque tres veces al momento de realizar este último. Para esta función, el sistema le pedirá la respuesta a su pregunta seguridad y su nueva contraseña. La contraseña tendrá que tener el mismo formato que al crear una cuenta. Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso. |
+
 ![RF6](RF6.png)
 ### **Figura**
 ![RF6](RF62.png)
@@ -114,6 +130,8 @@ obligatorios. |
 ![RF6](RF61.jpg)
 ### **Figura**
 Diagrama de Recuperacion de contraseña
+
+### **8 Visualizacion del proyecto**
 
 | **Codigo** | RF8 |
 | ----------- | ----------- |
@@ -129,6 +147,7 @@ Diagrama de Recuperacion de contraseña
 ![RF8](RF8.png)
 ### **Figura**
 
+### **9 Edicion del proyecto**
 
 | **Codigo** | RF9 |
 | ----------- | ----------- |
@@ -196,3 +215,9 @@ Diagrama de Recuperacion de contraseña
 ### **Diagrama 13**
 ![Diag-13](Diag-13.png)
 ## **Conclusión**
+Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
+se cumplió con el objetivo del documento, logrando identificar los requisitos
+indispensables para el funcionamiento idóneo de la plataforma. Los requisitos identificados son 13
+Cada proceso fue detallado y descrito a lo largo del documento para que sea entendible para cualquier
+individuo. No obstante, es necesario aclarar que hay algunos procesos y funciones que serán externos
+en la primera versión del sistema.
