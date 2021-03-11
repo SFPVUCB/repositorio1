@@ -144,8 +144,8 @@ Diagrama de Recuperacion de contraseña
 | ----------- | ----------- |
 | **Nombre** | Registro de Proyectos |
 | **Prioridad del Negocio** | Alta/Escencial |
-| **Descripción** |En esta plataforma se muestrar los diferentes proyectos que fueron registraados  |
-| **Validación** | La platoforma muestra los registros de los diferentes ususarios  |
+| **Descripción** |En esta plataforma se muestra los diferentes proyectos que fueron registrados  |
+| **Validación** | La plataforma muestra los registros de los diferentes usuarios  |
 
 ![registro](registro.png)
 
