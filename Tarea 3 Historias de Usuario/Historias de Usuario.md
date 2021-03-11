@@ -126,7 +126,7 @@ Diagrama de Recuperacion de contraseña
 - Monto Requerido.
 - Monto Recaudado (Hasta el momento). |
 
-![RF8](RF8.jpg)
+![RF8](RF8.png)
 ### **Figura**
 
 
@@ -141,7 +141,7 @@ Diagrama de Recuperacion de contraseña
 - Borra fotos
 - Subir fotos |
 
-![RF9](RF9.jpg)
+![RF9](RF9.png)
 ### **Figura**
 
 ### **10 Visualizar perfil de Usuario-Artesano**
