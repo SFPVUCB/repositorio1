@@ -27,6 +27,10 @@
 - Formulario de donaciones
 - Registro de transferencia
 ---
+# **Indice de Figuras**
+- Pagina principal
+
+---
 ## **Introducción**
 
 En el presente documento se puede observar las historias de Usuario para la plataforma de crowdfunding “Waliky”.
@@ -66,6 +70,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![menu](menu.png)
 
+### **Figura 1**
 
 ### **02 Login**
 | **Codigo** |	RF-02 |
@@ -80,7 +85,7 @@ obligatorios. |
 
 ![login](login.png)
 
-
+### **Figura 2**
 
 ### **03 Registro de Usuario - Donante**
 
@@ -93,6 +98,8 @@ obligatorios. |
 
 ![reg_donador](reg_donador.jpg)
 
+### **Figura 3**
+
 ### **04 Registro de Usuario - Artesano**
 
 | **Codigo** | RF-04 |
@@ -103,6 +110,8 @@ obligatorios. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, dirección, cuenta bancaria, contraseña y carga de fotografía. Los campos deben ser obligatorios y tener carácter valido. |
 
 ![reg_artesano](reg_artesano.jpg)
+
+### **Figura 4**
 
 ### **05 Registro de Usuario - Administrador**
 
@@ -116,10 +125,12 @@ obligatorios. |
 
 ![reg_admi](reg_admi.jpg)
 
+### **Figura 5**
+
 
 ![log](log.png)
 ### **6 Recuperacion de contraseña**
-| **Codigo** | RF6 |
+| **Codigo** | RF-6 |
 | ----------- | ----------- |
 | **Nombre** | Recuperacion de contraseña |
 | **Prioridad del Negocio** | Mediano/Deseado |
@@ -127,15 +138,15 @@ obligatorios. |
 | **Validación** | Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio de sesión o cuando se equivoque tres veces al momento de realizar este último. Para esta función, el sistema le pedirá la respuesta a su pregunta seguridad y su nueva contraseña. La contraseña tendrá que tener el mismo formato que al crear una cuenta. Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso. |
 
 ![RF6](RF6.png)
-### **Figura**
+### **Figura 6**
 ![RF6](RF62.png)
-### **Figura**
+### **Figura 6.1**
 ![RF6](RF63.png)
-### **Figura**
+### **Figura 6.2**
 ![RF6](RF64.png)
-### **Figura**
+### **Figura 6.3**
 ![RF6](RF61.JPG)
-### **Figura**
+### **Figura 6.4**
 Diagrama de Recuperacion de contraseña
 
 ### **07 Registro de proyectos**
@@ -144,14 +155,20 @@ Diagrama de Recuperacion de contraseña
 | ----------- | ----------- |
 | **Nombre** | Registro de Proyectos |
 | **Prioridad del Negocio** | Alta/Escencial |
-| **Descripción** |En esta plataforma se muestra los diferentes proyectos que fueron registrados  |
-| **Validación** | La plataforma muestra los registros de los diferentes usuarios  |
+| **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto. |
+| **Validación** | Para que este registro se agregue se pedira los siguientes parametro:
+- Nombre del proyecto.
+- Monto de Recaudacion. 
+- Descripcion detallada del proyecto.
+- Agregar Imagenes. |
 
 ![registro](registro.png)
 
+### **Figura 7**
+
 ### **8 Visualizacion del proyecto**
 
-| **Codigo** | RF8 |
+| **Codigo** | RF-8 |
 | ----------- | ----------- |
 | **Nombre** | Visualizacion del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
@@ -163,11 +180,11 @@ Diagrama de Recuperacion de contraseña
 - Monto Recaudado (Hasta el momento). |
 
 ![RF8](RF8.png)
-### **Figura**
+### **Figura 8**
 
 ### **9 Edicion del proyecto**
 
-| **Codigo** | RF9 |
+| **Codigo** | RF-9 |
 | ----------- | ----------- |
 | **Nombre** | Edicion del proyecto |
 | **Prioridad del Negocio** | Alto/Escencial |
@@ -179,7 +196,13 @@ Diagrama de Recuperacion de contraseña
 - Subir fotos |
 
 ![RF9](RF9.png)
-### **Figura**
+### **Figura 9**
+
+![RF9](RF91.png)
+### **Figura 9**
+
+![RF9](RF92.png)
+### **Figura 9**
 
 ### **10 Visualizar perfil de Usuario-Artesano**
 | **Codigo** |	RF-10 |
@@ -193,6 +216,8 @@ Diagrama de Recuperacion de contraseña
 ### **Diagrama 10**
 ![Diag-10](Diag-10.png)
 
+### **Figura 10**
+
 ### **11 Visualizar perfil de Usuario-Donante**
 | **Codigo** |	RF-11 |
 | ----------- | ----------- |
@@ -204,6 +229,8 @@ Diagrama de Recuperacion de contraseña
 ![RF-11](RF-11.png)
 ### **Diagrama 11**
 ![Diag-11](Diag-11.png)
+
+### **Figura 11**
 
 ### **12 Formulario de Donaciónes**
 | **Codigo** |	RF-12 |
@@ -219,6 +246,8 @@ Diagrama de Recuperacion de contraseña
 ### **Diagrama 12**
 ![Diag-12](Diag-12.png)
 
+### **Figura 12**
+
 ### **13 Registro de Transferencia**
 | **Codigo** |	RF-13 |
 | ----------- | ----------- |
@@ -228,10 +257,22 @@ Diagrama de Recuperacion de contraseña
 | **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante. El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
 
 ![RF-13](RF-13.png)
+
+### **Figura 13**
+
 ![RF-13.1](RF-13.1.png)
+
+### **Figura 13.1**
+
 ![RF-13.2](RF-13.2.png)
-### **Diagrama 13**
+
+### **Figura 13.2**
+
+
 ![Diag-13](Diag-13.png)
+### **Diagrama 13**
+
+### **Figura 14**
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
 se cumplió con el objetivo del documento, logrando identificar los requisitos
