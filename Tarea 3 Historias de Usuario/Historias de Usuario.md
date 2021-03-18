@@ -37,11 +37,9 @@
 - Figura 8.1 Nueva actualización de Proyecto.
 ---
 # **Índice de Diagramas**
-- Diagrama 1
-- Diagrama 2
-- Diagrama 3
-- Diagrama 4
-- Diagrama 5
+- 
+-
+-
 ---
 
 ## **Introducción**
@@ -72,19 +70,13 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de usuario**
 
-### **1 Página principal**
+### **01 Pagina principal**
 | **Codigo** |	RF-01 |
 | ----------- | ----------- |
-<<<<<<< HEAD
-| **Nombre** | Página Principal  |
-| **Prioridad del Negocio** |	Alta/Esencial |
-| **Descripción** | Esta sera la página de inicio donde el usuario/cliente podrá acceder a los diferentes módulos de la plataforma |
-| **Validación** | Para esta Vista previa se mostrara una lista de menús donde el usuario podrá ver el contenido de la página  |
-=======
 | **Nombre** | Pagina Principal  |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes modulos de la plataforma |
-| **Validación** | Para esta vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
+| **Validación** | Para esta Vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
 
 ![menu](menu.png)
 
@@ -95,7 +87,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | ----------- | ----------- |
 | **Nombre** | Login  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la
+| **Descripción** | Al ingresar con una cuenta existente, el botòn de ingresar llevará al usuario a la página principal de la
 plataforma |
 | **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de
 usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
@@ -153,7 +145,11 @@ obligatorios. |
 | **Nombre** | Recuperación de contraseña |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. El proceso de verificación comienza pidiendo el correo electrónico con el que se registro en la plataforma web, posteriormente el sistema mandará un código de verificación a dicho correo, después el usuario deberá ingresar el código proporcionado, el ultimo paso será proporcionar la nueva contraseña y mostrar un mensaje de cambio exitoso. |
-| **Validación** | Pasos de la validación:- Verificar que el correo electrónico proporcionado este registrado en la plataforma.- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.- Verificar que la nueva contraseña no sea la misma que la anterior.- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
+| **Validación** | Pasos de la validación:
+- Verificar que el correo electrónico proporcionado este registrado en la plataforma.
+- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.
+- Verificar que la nueva contraseña no sea la misma que la anterior.
+- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
 
 ![RF6](RF6.png)
 ### **Figura 6** Verificación de correo electrónico.
@@ -169,13 +165,6 @@ obligatorios. |
 | **Codigo** | RF-07 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Proyectos |
-| **Prioridad del Negocio** | Alta/Esencial |
-| **Descripción** |En este formulario sera de utilidad para que los usuarios de tipo "Artesano" quieran registrar un nuevo proyecto.  |
-| **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos así mismo podrá subir imágenes y también un rango de incentivo "incentivo para el usuario que por sus donaciones"  así mismo podrá poner sus respectivos rangos y fecha de cada uno de ellos |
-
-![registro](registro.png)
-###** Figura11**
-
 | **Prioridad del Negocio** | Alta/Escencial |
 | **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto. |
 | **Validación** | Para que este registro se agregue se pedira los siguientes parametro:
@@ -195,17 +184,21 @@ obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Visualización del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
-| **Descripción** | En este apartado se mostrará la vista del proyecto desde la perspectiva del donante y la del artesano. Para el caso del artesano se contará con un botón extra que permitirá subir nuevas actualizaciones respecto a su proyecto. Las actualizaciones al igual que los atributos del registro de proyecto no serán editables por motivos de seguridad y confiabilidad de cada proyecto. Para la vista del artesano se incluirá un botón que le permita subir actualizaciones. |
-| **Validación** | En sección de la pagina esta divida en 3 partes que la constituyen: La sección de información general donde se muestran los detalles del proyecto como ser: Nombre del Proyecto, Tiempo para el lanzamiento, Descripción, Fotos o Video del proyecto, Monto requerido y recaudado. En siguiente sección se observa las actualizaciones que publica el Artesano, ordenadas por fecha de publicación.  En la última sección se observa los rangos de donación, donde el donante podrá conocer los rangos de las donaciones que posea cada proyecto. En caso de que el Artesano no cuente con incentivos por rangos de donaciones simplemente se mostrar un mensaje que indique que este proyecto no cuenta con rangos de donación. |
+| **Descripción** | En este apartado el artesano puede ver el estado de proyecto con todos los datos que lleno al registrar su proyecto. |
+| **Validación** | El usuario puede observar los datos del proyecto como ser:
+- Descripción.
+- Fotos.
+- Monto Requerido.
+- Monto Recaudado (Hasta el momento). |
 
-![RF8](RF8.png)
-### **Figura 8** Visualización del proyecyo para el usuario.
+![RF9](RF9.png)
+### **Figura 9** Visualización del proyecyo para el usuario.
 
-![RF81](RF81.png)
-### **Figura 8.1** Visualización del proyecto para el artesano.
+![RF9](RF91.png)
+### **Figura 9** Visualización del proyecto para el artesano.
 
-![RF82](RF82.png)
-### **Figura 8.2** Agregando nueva actualización.
+![RF9](RF92.png)
+### **Figura 9** Agregando nueva actualización.
 
 ### **10 Visualizar perfil de Usuario-Artesano**
 | **Codigo** |	RF-10 |
@@ -277,9 +270,22 @@ obligatorios. |
 
 ### **Figura 14**
 
-### **14 Visualizar perfil de Usuario-Administrador**
 
+
+<<<<<<< HEAD
+### **14 ¿Quiénes somos?**
 | **Codigo** |	RF-14 |
+| ----------- | ----------- |
+| **Nombre** | ¿Quiénes somos?   |
+| **Prioridad del Negocio** | Bajo |
+| **Descripción** |   |
+| **Validación** |  |
+
+![RF14](RF14.png)
+
+### **14 Visualizar perfil de Usuario-Administrador**
+=======
+| **Codigo** |	RF-15 |
 | ----------- | ----------- |
 | **Nombre** | Visualizacion perfil de usuario-administrador |
 | **Prioridad del Negocio** |	Alta/Escencial |
@@ -291,28 +297,20 @@ obligatorios. |
 
 ### **Figura 15**
 
-![ad_art](ad_art.png)
+![artesanos](artesanos.png)
 
 ### **Figura 16**
 
-![ad_donadores](ad_donadores.png)
+![donadores1](donadores1.png)
 
 ### **Figura 17**
 
-![ad_donadores2](ad_donadores2.png)
+![donadores2](donadores2.png)
 
 ### **Figura 18**
 
-### **15 ¿Quiénes somos?**
-| **Codigo** |	RF-15 |
-| ----------- | ----------- |
-| **Nombre** | ¿Quiénes somos?   |
-| **Prioridad del Negocio** | Bajo |
-| **Descripción** | Este apartado esta dedicado a mostrar la información de la plataforma y a que está orientada la misma. Contemplara la misión, visión y los contactos de los encargados de la plataforma.  |
-| **Validación** | Ninguna solo es informativa. |
-
-![RF15](RF15.png)
-
+![diag14](diag14.png)
+### **Diagrama 14**
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
 se cumplió con el objetivo del documento, logrando identificar los requisitos
