@@ -257,6 +257,8 @@ obligatorios. |
 ### **Diagrama 13**
 
 ### **Figura 14**
+
+
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
 se cumplió con el objetivo del documento, logrando identificar los requisitos
