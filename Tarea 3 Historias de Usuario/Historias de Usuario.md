@@ -27,8 +27,19 @@
 - Registro de transferencia
 ---
 # **Indice de Figuras**
-- 
 
+- Figura 6 Verificación de correo electrónico.
+- Figura 6.1 Verificación del Código.
+- Figura 6.2 Verificación de la nueva contraseña.
+- Figura 6.3 Mensaje de cambio de contraseña exitoso.
+- Figura 8 Visualización del proyecyo para el usuario.
+- Figura 8.1 Visualización del proyecto para el artesano.
+- Figura 8.1 Nueva actualización de Proyecto.
+
+# **Indice de Diagramas**
+-
+-
+-
 ---
 ## **Introducción**
 
@@ -162,18 +173,14 @@ obligatorios. |
 
 ### **Figura 7**
 
-### **8 Visualizacion del proyecto**
+### **8 Visualización del proyecto**
 
 | **Codigo** | RF-8 |
 | ----------- | ----------- |
 | **Nombre** | Visualización del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | En este apartado se mostrará la vista del proyecto desde la perspectiva del donante y la del artesano. Para el caso del artesano se contará con un botón extra que permitirá subir nuevas actualizaciones respecto a su proyecto. Las actualizaciones al igual que los atributos del registro de proyecto no serán editables por motivos de seguridad y confiabilidad de cada proyecto. Para la vista del artesano se incluirá un botón que le permita subir actualizaciones. |
-| **Validación** | En sección de la pagina esta divida en 3 partes que la constituyen:
-La sección de información general donde se muestran los detalles del proyecto como ser:
-Nombre del Proyecto, Tiempo para el lanzamiento, Descripción, Fotos o Video del proyecto, Monto requerido y recaudado.
-En siguiente sección se observa las actualizaciones que publica el Artesano, ordenadas por fecha de publicación. 
-En la última sección se observa los rangos de donación, donde el donante podrá conocer los rangos de las donaciones que posea cada proyecto. En caso de que el Artesano no cuente con incentivos por rangos de donaciones simplemente se mostrar un mensaje que indique que este proyecto no cuenta con rangos de donación. |
+| **Validación** | En sección de la pagina esta divida en 3 partes que la constituyen: - La sección de información general donde se muestran los detalles del proyecto como ser: Nombre del Proyecto, Tiempo para el lanzamiento, Descripción, Fotos o Video del proyecto, Monto requerido y recaudado. - En siguiente sección se observa las actualizaciones que publica el Artesano, ordenadas por fecha de publicación.  - En la última sección se observa los rangos de donación, donde el donante podrá conocer los rangos de las donaciones que posea cada proyecto. En caso de que el Artesano no cuente con incentivos por rangos de donaciones simplemente se mostrar un mensaje que indique que este proyecto no cuenta con rangos de donación. |
 
 ![RF9](RF8.png)
 ### **Figura 8** Visualización del proyecyo para el usuario.
