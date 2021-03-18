@@ -267,13 +267,13 @@ Diagrama de Recuperacion de contraseña
 
 ![RF-10](RF-10.png)
 ###**Figura 14**
+
+
 ![RF-10.1](RF-10.1.png)
 ###**Figura 14**
 
-![Diag-10](Diag-10.png)
-### **Diagrama 10**
 
-### **Figura 10**
+
 
 ### **11 Visualizar perfil de Usuario-Donante**
 | **Codigo** |	RF-11 |
@@ -286,15 +286,14 @@ Diagrama de Recuperacion de contraseña
 ![RF-11](RF-11.png)
 ###**Figura 15**
 
-![Diag-11](Diag-11.png)
-### **Diagrama 11**
+![RF-11](RF-11.1.png)
+###**Figura 15**
 
-### **Figura 11**
 
 ### **12 Formulario de Donaciónes**
 | **Codigo** |	RF-12 |
 | ----------- | ----------- |
-| **Nombre** | Registro de Formulario de Donación  |
+| **Nombre** | Formulario de Donación  |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Una vez que el Donante identifique el proyecto por el cual optará hacer una donación, deberá registrarse en un formulario, registrar el monto a donar y seleccionar el modo de transferencia. |
 | **Validación** | Para que esta donación se lleve a cabo deberá registrar su nombre completo, sexo, correo electrónico, teléfono, ciudad, seleccionar el monto a donar (no menos de 10 Bs.) y el tipo de transferencia. Al seleccionar la modalidad de donación se desplegará una nueva ventana donde se podrá observar los números de cuenta y su descripción. |
