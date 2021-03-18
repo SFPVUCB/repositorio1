@@ -193,8 +193,8 @@ obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Perfil de usuario-Artesano |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Cada artesano registrado contará con un perfil único donde podrá visualizar solo sus proyectos publicados. |
-| **Validación** | Para este perfil, el artesano podrá gestionar sus proyectos de manera fácil  a través de un catálogo, el podrá editarlos o agregar un nuevo proyecto. |
+| **Descripción** | El perfil del “Artesano” permitirá gestionar todos los proyectos que éste mismo publique, tanto así, como de agregar nuevos proyectos. Una vez que inicie su sesión como Artesano, podrá ver en una lista sus proyectos que aún están vigentes (que aún no entran en etapa de ejecución) y están en proceso de recaudación de dinero. También podrán visualizar en otra pestaña todos sus proyectos que ya terminaron su etapa de recaudación y están en proceso de elaboración. |
+| **Validación** | Para esta validación se deberá ingresar como usuario “Artesano”, en la opción de proyectos vigentes se podrá ver. El tiempo restante del proyecto, el monto requerido para la ejecución del proyecto y el monto recaudado hasta la fecha. También tendrá la opción de agregar un nuevo proyecto, que lo redireccionará a un formulario de registros de proyectos. Los proyectos en proceso permitirán, visualizar el monto final recaudado, con el que el artesano empezó la elaboración del proyecto. Aquí podrá agregar actualizaciones por proyecto (recomendable que sea semanalmente), para que los donares puedan hacer seguimiento al proyecto que decidieron apoyar con una donación. |
 
 ![RF-10](RF-10.png)
 ### **Diagrama 10**
@@ -207,8 +207,8 @@ obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Perfil de usuario-Donante |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Cada donante registrado contará con un perfil personal donde podrá ver todos aquellos proyectos que hizo alguna donación y así poder hacer seguimiento del proyecto. |
-| **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
+| **Descripción** |El perfil del “Donador” permitirá visualizar todos los proyectos que se publiquen en la página y aquellos proyectos que recibieron cualquier monto de donación por el mismo Usuario- Donador. Una vez que inicie su sesión como Donador, podrá ver en una lista todos los proyectos que aún están vigentes (que aún no entran en etapa de ejecución) y están en proceso de recaudación de dinero, aquí el donador tendrá la opción de realizar donaciones. También podrán visualizar en otra pestaña todos aquellos proyectos que ya están en etapa de elaboración o en proceso de ejecución, donde el hizo una donación y así hacer un seguimiento al desarrollo del proyecto. |
+| **Validación** | Para esta validación se deberá ingresar como usuario “Donador”, en la opción de proyectos vigentes se podrá visualizar: El tiempo restante de los proyectos (se priorizará los que estén próximos a expirar), el monto requerido para la ejecución del proyecto y el botón de “Donar”, donde te redireccionará a un formulario de donaciones. Se contará con un buscador inteligente, donde podrás buscar proyectos próximos a vencer, por departamentos, por tipo de artesanía, por nombres de proyectos y nombres de artesanos. La pestaña de proyectos en proceso permitirá visualizar a través de una lista, todos los proyectos al cual el donante realizo una transacción o donación. Se podrá ver el nombre del proyecto, nombre del artesano, fecha de inicio del proyecto y la fecha de conclusión. Aquí se podrá hacer un seguimiento sobre su proceso de elaboración, viendo las últimas actualizaciones que subieron los artesanos por cada proyecto. |
 
 ![RF-11](RF-11.png)
 ### **Diagrama 11**
@@ -221,8 +221,8 @@ obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Registro de Formulario de Donación  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Una vez que el Donante identifique el proyecto por el cual optará hacer una donación, deberá registrarse en un formulario, registrar el monto a donar y seleccionar el modo de transferencia. |
-| **Validación** | Para que esta donación se lleve a cabo deberá registrar su nombre completo, sexo, correo electrónico, teléfono, ciudad, seleccionar el monto a donar (no menos de 10 Bs.) y el tipo de transferencia. Al seleccionar la modalidad de donación se desplegará una nueva ventana donde se podrá observar los números de cuenta y su descripción. |
+| **Descripción** | Cada donante registrado contará con un perfil personal donde podrá ver todos aquellos proyectos que hizo alguna donación y así poder hacer seguimiento del proyecto. |
+| **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
 
 ![RF-12](RF-12.png)
 ![RF-12.1](RF-12.1.png)
