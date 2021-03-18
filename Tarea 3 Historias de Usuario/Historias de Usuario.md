@@ -12,7 +12,7 @@
 - John Choque
 - Dennys Michel
 ---
-# **Indice de Historias de Usuario**
+# **Índice de Historias de Usuario**
 - Pagina principal
 - Inicio de Sesion
 - Registro del Artesano
@@ -21,42 +21,40 @@
 - Recuperar contraseña
 - Registrar Proyecto
 - Visualizacion del proyecto
-- Edicion del proyecto
 - Visualizacion del perfil del artesano
 - Visualizacion del perfil del donante
 - Formulario de donaciones
 - Registro de transferencia
 ---
 # **Indice de Figuras**
-- Pagina principal
+- 
 
 ---
 ## **Introducción**
 
-En el presente documento se puede observar las historias de Usuario para la plataforma de crowdfunding “Waliky”.
-Una historia de usuario es una representación de los requisitos que se precisan para la elaboración de un sistema, es un lenguaje que permite a cualquier individuo entender con facilidad sin tener conocimiento previo en informática o programación. 
-Es plataforma está dirigida a 2 tipos de público:
+En el presente documento se puede observar las historias de Usuario para la plataforma de crowdfunding “Waliki”. Una historia de usuario es una representación de los requisitos que se precisan para la elaboración de un sistema, 
+es un lenguaje que permite a cualquier individuo entender con facilidad sin tener conocimiento previo en informática o programación. Es plataforma está dirigida a 2 tipos de público:
 - Artesanos que deseen hacer emprendimientos.
 - Donantes que quieran que algún emprendimiento salga a la luz y en algún caso recibir algún recompensa de los creadores del emprendimiento.
 
 El objetivo del documento es identificar los requisitos del sistema y plasmar cada uno de ellos, para desarrollar de forma precisa la plataforma mencionada y explicar los procesos que se llevarán a cabo.
 
-Durante el análisis de la idea planteada por “Waliky”, se determinaron 13 historias de usuario, cada una cuenta con una descripción de los procesos que se realizará, quién lo podrá realizar y también, se podrá visualizar un mockup de la pantalla del sistema. 
+Durante el análisis de la idea planteada por “Waliki”, se determinaron 13 historias de usuario, cada una cuenta con una descripción de los procesos que se realizará, quién lo podrá realizar y también, se podrá visualizar un mockup de la pantalla del sistema. 
 Esta plataforma contará con 3 tipos de usuarios: 
 1. El primero es el Artesano, quien tendrá el papel de crear un perfil de emprendedor y podrá publicar en un foro sus propuestas de emprendimiento para recaudar fondos para los mismos.
 2. El segundo es el Donante, quien tendrá como panel,crear un perfil de usuario, para poder hacer donaciones a los emprendimientos que le guste apoyar.
-3. El tercero el Administrador, el nivel más alto de los usuarios que tendrá el papel de administrar las cuentas creadas y proporcionar la recuperaciones de contraseñas.
+3. El tercero el Administrador, el nivel más alto de los usuarios que tendrá el papel de administrar las cuentas creadas y proporcionar la recuperación  de contraseñas.
 
 ## **Objetivo**
-Se identificará los requisitos y para así poder plasmarlos en el presente documento, para posteriormente desarrollar de forma precisa la plataforma requerida y explicar los procesos que esta llevará a  cabo.
+Se identificará los requisitos y para así poder plasmarlos en el presente documento, para posteriormente desarrollar de forma precisa la plataforma requerida y explicar los procesos que esta llevará a cabo.
 ## **A quién está dirigido**
 Esta plataforma de crowdfunding está dirigida a los artesanos emprendedores que estén buscando recaudar fondos para realizar un emprendimiento, para lo cual ellos plantarán una idea de emprendimiento que será fomentada por donaciones de los usuarios “Donantes” de la plataforma crowfunding.
 ## **Niveles de prioridad**
 Los niveles de prioridad serán en función al efecto que tenga en el núcleo del sistema, que en esta plataforma sería la publicación y transacción de los productos. Para este sistema se definen los siguientes niveles de prioridad: 
 
-1. Alta: Este módulo afecta al núcleo del sistema directamente, por lo tanto es indispensable.
+1. Alta: Este módulo afecta al núcleo del sistema directamente por lo tanto, es indispensable.
 2. Medio: El módulo afecta al núcleo del sistema parcialmente. 
-3. Bajo: Afecta al núcleo del sistema de forma externa, sin embargo es prescindible.
+3. Bajo: Afecta al núcleo del sistema de forma externa sin embargo, es prescindible.
 
 ## **Historias de usuario**
 
@@ -129,25 +127,26 @@ obligatorios. |
 
 
 ![log](log.png)
-### **6 Recuperacion de contraseña**
+### **6 Recuperación de contraseña**
 | **Codigo** | RF-6 |
 | ----------- | ----------- |
-| **Nombre** | Recuperacion de contraseña |
+| **Nombre** | Recuperación de contraseña |
 | **Prioridad del Negocio** | Mediano/Deseado |
-| **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad. |
-| **Validación** | Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio de sesión o cuando se equivoque tres veces al momento de realizar este último. Para esta función, el sistema le pedirá la respuesta a su pregunta seguridad y su nueva contraseña. La contraseña tendrá que tener el mismo formato que al crear una cuenta. Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso. |
+| **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. El proceso de verificación comienza pidiendo el correo electrónico con el que se registro en la plataforma web, posteriormente el sistema mandará un código de verificación a dicho correo, después el usuario deberá ingresar el código proporcionado, el ultimo paso será proporcionar la nueva contraseña y mostrar un mensaje de cambio exitoso. |
+| **Validación** | Pasos de la validación:
+- Verificar que el correo electrónico proporcionado este registrado en la plataforma.
+- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.
+- Verificar que la nueva contraseña no sea la misma que la anterior.
+- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
 
 ![RF6](RF6.png)
-### **Figura 6**
+### **Figura 6** Verificar que el correo electrónico.
 ![RF6](RF62.png)
-### **Figura 6.1**
+### **Figura 6.1** Verificar que el Código.
 ![RF6](RF63.png)
-### **Figura 6.2**
+### **Figura 6.2** Verificar que la nueva contraseña.
 ![RF6](RF64.png)
-### **Figura 6.3**
-![RF6](RF61.JPG)
-### **Figura 6.4**
-Diagrama de Recuperacion de contraseña
+### **Figura 6.3** Mensaje de cambio de contraseña exitoso.
 
 ### **07 Registro de proyectos**
 
