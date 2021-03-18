@@ -37,9 +37,11 @@
 - Figura 8.1 Nueva actualización de Proyecto.
 ---
 # **Índice de Diagramas**
-- 
--
--
+- Diagrama 1
+- Diagrama 2
+- Diagrama 3
+- Diagrama 4
+- Diagrama 5
 ---
 
 ## **Introducción**
@@ -70,13 +72,13 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de usuario**
 
-### **01 Pagina principal**
+### **1 Página principal**
 | **Codigo** |	RF-01 |
 | ----------- | ----------- |
 | **Nombre** | Pagina Principal  |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes modulos de la plataforma |
-| **Validación** | Para esta Vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
+| **Validación** | Para esta vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
 
 ![menu](menu.png)
 
@@ -87,7 +89,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | ----------- | ----------- |
 | **Nombre** | Login  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Al ingresar con una cuenta existente, el botòn de ingresar llevará al usuario a la página principal de la
+| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la
 plataforma |
 | **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de
 usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
@@ -185,19 +187,15 @@ obligatorios. |
 | **Nombre** | Visualización del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | En este apartado el artesano puede ver el estado de proyecto con todos los datos que lleno al registrar su proyecto. |
-| **Validación** | El usuario puede observar los datos del proyecto como ser:
-- Descripción.
-- Fotos.
-- Monto Requerido.
-- Monto Recaudado (Hasta el momento). |
+| **Validación** |  |
 
-![RF9](RF9.png)
+![RF8](RF8.png)
 ### **Figura 9** Visualización del proyecyo para el usuario.
 
-![RF9](RF91.png)
+![RF81](RF81.png)
 ### **Figura 9** Visualización del proyecto para el artesano.
 
-![RF9](RF92.png)
+![RF82](RF82.png)
 ### **Figura 9** Agregando nueva actualización.
 
 ### **10 Visualizar perfil de Usuario-Artesano**
