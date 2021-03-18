@@ -75,16 +75,14 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 ### **1 Página principal**
 | **Codigo** |	RF-01 |
 | ----------- | ----------- |
-<<<<<<< HEAD
 | **Nombre** | Página Principal  |
 | **Prioridad del Negocio** |	Alta/Esencial |
 | **Descripción** | Esta sera la página de inicio donde el usuario/cliente podrá acceder a los diferentes módulos de la plataforma |
 | **Validación** | Para esta Vista previa se mostrara una lista de menús donde el usuario podrá ver el contenido de la página  |
-=======
 | **Nombre** | Pagina Principal  |
-| **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes modulos de la plataforma |
-| **Validación** | Para esta vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
+| **Prioridad del Negocio** |	Alta/Esencial |
+| **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes módulos de la plataforma |
+| **Validación** | Para esta vista previa se mostrara una lista de menús donde el usuario podrá ver el contenido de la pagina  |
 
 ![menu](menu.png)
 
@@ -95,11 +93,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | ----------- | ----------- |
 | **Nombre** | Login  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la
-plataforma |
-| **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de
-usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
-obligatorios. |
+| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la plataforma |
+| **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son obligatorios. |
 
 ![login](login.png)
 
@@ -174,7 +169,7 @@ obligatorios. |
 | **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos así mismo podrá subir imágenes y también un rango de incentivo "incentivo para el usuario que por sus donaciones"  así mismo podrá poner sus respectivos rangos y fecha de cada uno de ellos |
 
 ![registro](registro.png)
-###** Figura11**
+### **Figura11**
 
 | **Prioridad del Negocio** | Alta/Escencial |
 | **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto. |
