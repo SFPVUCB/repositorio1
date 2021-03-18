@@ -270,7 +270,7 @@ obligatorios. |
 
 ### **Figura 14**
 
-### **14 Visualizar perfil de Usuario-Administrador**
+
 
 <<<<<<< HEAD
 ### **14 ¿Quiénes somos?**
@@ -283,17 +283,32 @@ obligatorios. |
 
 ![RF14](RF14.png)
 
-### **Figura 14** Página informativa 
+### **14 Visualizar perfil de Usuario-Administrador**
 =======
 | **Codigo** |	RF-14 |
 | ----------- | ----------- |
-| **Nombre** | Visualizacion perfil de usuario.administrador |
+| **Nombre** | Visualizacion perfil de usuario-administrador |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Este apartado esta dedicado a mostrar la información de la plataforma y a que está orientada la misma. Contemplara la misión, visión y los contactos de los encargados de la plataforma. |
-| **Validación** | Ninguna |
+| **Descripción** | El usuario administrador podrá verificar todos los proyectos publicados por los artesanos registrados, los proyectos se visualizarán en orden descendente mostrando el último proyecto publicado al inicio, también podrá realizar búsquedas de los proyectos por intervalos de tiempo. Cada proyecto mostrara toda la información del proyecto como ser: Fecha de publicación, nombre del artesano, tiempo de publicación, tiempo restante de la publicación al momento, monto requerido, monto recaudado y descripción del proyecto. En la pestaña Artesanos el usuario administrador podrá verificar los datos con los que se registró el artesano y el número de proyectos que publico. Se podrá verificar en la pestaña de Donadores la información necesaria sobre cada donador nombre, correo fecha de donación, monto de donación por proyecto. Se podrá realizar la búsqueda por nombre del donador o proyecto mostrando una pantalla con el total donado. |
+| **Validación** | Para este perfil el administrador tendrá toda la información que se publique sobre proyectos, registro de artesanos y cuantos proyectos tiene publicados y también podrá obtener información sobre donaciones realizadas a cada proyecto. |
 
 
-![ad_artesanos](ad_artesanos.png)
+![ad_proy](ad_proy.png)
+
+### **Figura 15**
+
+![ad_art](ad_art.png)
+
+### **Figura 16**
+
+![ad_donadores](ad_donadores.png)
+
+### **Figura 17**
+
+![ad_donadores2](ad_donadores2.png)
+
+### **Figura 18**
+
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
 se cumplió con el objetivo del documento, logrando identificar los requisitos
