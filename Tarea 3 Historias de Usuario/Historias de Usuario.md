@@ -75,10 +75,13 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 ### **1 Página principal**
 | **Codigo** |	RF-01 |
 | ----------- | ----------- |
+<<<<<<< HEAD
 | **Nombre** | Página Principal  |
 | **Prioridad del Negocio** |	Alta/Esencial |
 | **Descripción** | Esta sera la página de inicio donde el usuario/cliente podrá acceder a los diferentes módulos de la plataforma |
 | **Validación** | Para esta Vista previa se mostrara una lista de menús donde el usuario podrá ver el contenido de la página  |
+=======
+>>>>>>> 604d2ab5fc13d0f9d8124728acc3e01ca214b70d
 | **Nombre** | Pagina Principal  |
 | **Prioridad del Negocio** |	Alta/Esencial |
 | **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes módulos de la plataforma |
@@ -164,6 +167,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Codigo** | RF-07 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Proyectos |
+<<<<<<< HEAD
 | **Prioridad del Negocio** | Alta/Esencial |
 | **Descripción** |En este formulario sera de utilidad para que los usuarios de tipo "Artesano" quieran registrar un nuevo proyecto.  |
 | **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos así mismo podrá subir imágenes y también un rango de incentivo "incentivo para el usuario que por sus donaciones"  así mismo podrá poner sus respectivos rangos y fecha de cada uno de ellos |
@@ -171,6 +175,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 ![registro](registro.png)
 ### **Figura11**
 
+=======
+>>>>>>> 604d2ab5fc13d0f9d8124728acc3e01ca214b70d
 | **Prioridad del Negocio** | Alta/Escencial |
 | **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto. |
 | **Validación** | Para que este registro se agregue se pedira los siguientes parametro:
@@ -202,8 +208,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 ![RF82](RF82.png)
 ### **Figura 8.2** Agregando nueva actualización.
 
-### **10 Visualizar perfil de Usuario-Artesano**
-| **Codigo** |	RF-10 |
+### **9 Visualizar perfil de Usuario-Artesano**
+| **Codigo** |	RF-9 |
 | ----------- | ----------- |
 | **Nombre** | Perfil de usuario-Artesano |
 | **Prioridad del Negocio** |	Alta/Escencial |
@@ -211,13 +217,13 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Validación** | Para esta validación se deberá ingresar como usuario “Artesano”, en la opción de proyectos vigentes se podrá ver. El tiempo restante del proyecto, el monto requerido para la ejecución del proyecto y el monto recaudado hasta la fecha. También tendrá la opción de agregar un nuevo proyecto, que lo redireccionará a un formulario de registros de proyectos. Los proyectos en proceso permitirán, visualizar el monto final recaudado, con el que el artesano empezó la elaboración del proyecto. Aquí podrá agregar actualizaciones por proyecto (recomendable que sea semanalmente), para que los donares puedan hacer seguimiento al proyecto que decidieron apoyar con una donación. |
 
 ![RF-10](RF-10.png)
-### **Diagrama 10**
-![Diag-10](Diag-10.png)
+### **figura 9**
+![RF-10](RF-10.1.png)
 
-### **Figura 10**
+### **Figura 9.1**
 
-### **11 Visualizar perfil de Usuario-Donante**
-| **Codigo** |	RF-11 |
+### **10 Visualizar perfil de Usuario-Donante**
+| **Codigo** |	RF-10 |
 | ----------- | ----------- |
 | **Nombre** | Perfil de usuario-Donante |
 | **Prioridad del Negocio** |	Alta/Escencial |
@@ -225,34 +231,34 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Validación** | Para esta validación se deberá ingresar como usuario “Donador”, en la opción de proyectos vigentes se podrá visualizar: El tiempo restante de los proyectos (se priorizará los que estén próximos a expirar), el monto requerido para la ejecución del proyecto y el botón de “Donar”, donde te redireccionará a un formulario de donaciones. Se contará con un buscador inteligente, donde podrás buscar proyectos próximos a vencer, por departamentos, por tipo de artesanía, por nombres de proyectos y nombres de artesanos. La pestaña de proyectos en proceso permitirá visualizar a través de una lista, todos los proyectos al cual el donante realizo una transacción o donación. Se podrá ver el nombre del proyecto, nombre del artesano, fecha de inicio del proyecto y la fecha de conclusión. Aquí se podrá hacer un seguimiento sobre su proceso de elaboración, viendo las últimas actualizaciones que subieron los artesanos por cada proyecto. |
 
 ![RF-11](RF-11.png)
-### **Diagrama 11**
-![Diag-11](Diag-11.png)
+### **Figura 10**
 
-### **Figura 11**
+![RF-11](RF-11.1.png)
 
-### **12 Formulario de Donaciónes**
-| **Codigo** |	RF-12 |
+
+### **Figura 10.1**
+
+### **11 Formulario de Donaciónes**
+| **Codigo** |	RF-11 |
 | ----------- | ----------- |
-| **Nombre** | Registro de Formulario de Donación  |
+| **Nombre** |Formulario de Donación  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Cada donante registrado contará con un perfil personal donde podrá ver todos aquellos proyectos que hizo alguna donación y así poder hacer seguimiento del proyecto. |
-| **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
+| **Descripción** | Una vez que se identifique que proyecto apoyar, podrás realizar una donación a la vez, para esto aras clic en el botón “Donar” y se abrirá un formulario que identificara el nombre del donante y el nombre del proyecto. Podrás seleccionar una de las dos opciones para que puedas realizar la transferencia externamente. Una vez realizada la transferencia, tendrás que validarla, eligiendo esa opción, donde se habilitará un nuevo formulario que te permitirá agregar o subir en modo imagen el comprobante de la transferencia. Para finalizar, se deberá enviar todo ese proceso, para que, en un periodo de 24 horas, los administradores puedan verificar la transacción y registrarla como donación exitosa.|
+| **Validación** | Para este proceso, se deberá elegir un proyecto en la sección de proyectos vigentes, la opción “Donar” te permitirá accederá un formulario que contendrá tus datos y únicamente deveras elegir una opción de donación. Para que tu transferencia sea registrada, se deberá subir una foto o scrinshot de la transacción bancaria o transferencia, este se enviara solo a los administradores para su respectiva verificación. |
 
 ![RF-12](RF-12.png)
-![RF-12.1](RF-12.1.png)
-![RF-12.2](RF-12.2.png)
-### **Diagrama 12**
-![Diag-12](Diag-12.png)
-
 ### **Figura 12**
 
-### **13 Registro de Transferencia**
-| **Codigo** |	RF-13 |
+![RF-12.1](RF-12.1.png)
+### **Diagrama 12**
+
+### **12 Notificaciones**
+| **Codigo** |	RF-12 |
 | ----------- | ----------- |
-| **Nombre** | Registro de Transferencia  |
+| **Nombre** | Notificaciones  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Se pretende tener un registro de todas las donaciones realizadas, por lo cual cada donante podrá registrar su donación una vez que realice la transferencia.  |
-| **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante. El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
+| **Descripción** | Por cada validación de transferencia enviada, se notificará a través de un mensaje a una cuenta de los administradores.Esta notificación permitirá ver solo datos esenciales (nombre proyecto, nombre donante, modalidad de donación y comprobante de transferencia) para que ayude a verificar que realmente se hizo la transacción y proceder al registro de la donación.|
+| **Validación** | Para este proceso, los donadores deberán enviar la validación de transferencia, subiendo una imagen que compruebe que efectivamente se realizó la transacción. Los administradores contarán con la opción de notificaciones, ahí recibirán todas las validaciones de transferencias enviadas por los donadores. Cada notificación deberá agregar el monto de donación previamente comprobado, para que posteriormente sea registrada directamente en la base de Datos y ser visualizada en el perfil de los administradores.|
 
 ![RF-13](RF-13.png)
 
@@ -262,15 +268,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ### **Figura 13.1**
 
-![RF-13.2](RF-13.2.png)
 
-### **Figura 13.2**
-
-
-![Diag-13](Diag-13.png)
-### **Diagrama 13**
-
-### **Figura 14**
 
 ### **14 Visualizar perfil de Usuario-Administrador**
 
