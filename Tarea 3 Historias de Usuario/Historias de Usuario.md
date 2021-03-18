@@ -25,22 +25,10 @@
 - Visualización del perfil del donante
 - Formulario de donaciones
 - Registro de transferencia
-- ¿Quiénes somos? 
 ---
 # **Indice de Figuras**
+- 
 
-- Figura 6 Verificación de correo electrónico.
-- Figura 6.1 Verificación del Código.
-- Figura 6.2 Verificación de la nueva contraseña.
-- Figura 6.3 Mensaje de cambio de contraseña exitoso.
-- Figura 8 Visualización del proyecyo para el usuario.
-- Figura 8.1 Visualización del proyecto para el artesano.
-- Figura 8.1 Nueva actualización de Proyecto.
-
-# **Indice de Diagramas**
--
--
--
 ---
 ## **Introducción**
 
@@ -79,12 +67,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Validación** | Para esta Vista previa se mostrara una lista de menús donde el usuario podra ver el contenido de la página  |
 
 ![menu](menu.png)
-<<<<<<< HEAD
-###** Figura 1**
-=======
 
 ### **Figura 1**
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ### **02 Login**
 | **Código** |	RF-02 |
@@ -98,13 +82,8 @@ Usuario, correo y crear una contraseña. Estos campos deben tener caracteres vá
 Obligatorios. |
 
 ![login](login.png)
-<<<<<<< HEAD
-###** Figura 2**
-
-=======
 
 ### **Figura 2**
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ### **03 Registro de Usuario - Donante**
 
@@ -112,17 +91,12 @@ Obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Registro de Usuario - Donante |
 | **Prioridad del Negocio** | Alta/Escencial |
-| **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a paginas y subpáginas. |
-| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, dirección y contraseña, es necesario leer el contrato digital y aceptar las condiciones del contrato. Los campos deben ser obligatorios y tener carácter valido. |
+| **Descripción** | Se registrará usuarios nuevos en la plataforma que permitirá tener acceso a ver los proyectos publicados por los artesanos y realizar donaciones si así lo desea entre otras acciones que puede realizar. |
+| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre usuario (Campo obligatorio), correo (Campo obligatorio), teléfono(Campo obligatorio), dirección (Campo obligatorio) y contraseña (Campo obligatorio), es necesario leer el contrato digital y aceptar las condiciones del contrato para poder ser registrado. |
 
-<<<<<<< HEAD
-![reg_donador](reg_donador.jpg)
-###** Figura 3**
-=======
 ![registro_donador](registro_donador.png)
 
 ### **Figura 3**
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ### **04 Registro de Usuario - Artesano**
 
@@ -130,17 +104,12 @@ Obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Registro de Usuario-Artesano  |
 | **Prioridad del Negocio** | Alta/Escencial |
-| **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a páginas y subpáginas. |
-| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, dirección, cuenta bancaria, contraseña y carga de fotografía. Los campos deben ser obligatorios y tener carácter valido. |
+| **Descripción** | Se registrará usuarios nuevos en la plataforma que permitirá tener acceso para publicar sus proyectos y buscar financiamiento de algún donador. Al momento del registro de los datos del usuario- artesano automáticamente obtendrá una cuenta de banco creada online (La organización Waliki realizo un convenio con un banco para que cada artesano tenga una cuenta de banco para facilitar la transacción), también el usuario debe adjuntar una fotografía del carnet de identidad anverso y reverso para corroborar los datos llenados y alguna fotografía del trabajo que realiza. |
+| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo (campo obligatorio),fecha de nacimiento (campo obligatorio),correo(campo obligatorio), C.I. (campo obligatorio),teléfono (campo obligatorio), dirección (campo obligatorio), cargar imagen (obligatorio), contraseña (obligatorio) y carga de fotografía(obligatorio). Los campos deben ser obligatorios y tener carácter valido. |
 
-<<<<<<< HEAD
-![reg_artesano](reg_artesano.jpg)
-###** Figura 4**
-=======
 ![registro_artesano](registro_artesano.png)
 
 ### **Figura 4**
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ### **05 Registro de Usuario - Administrador**
 
@@ -148,19 +117,14 @@ Obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Registro de cuenta para administradores |
 | **Prioridad del Negocio** | Alta/Escencial |
-| **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso total a páginas y subpáginas y tendrá el control absoluto del sitio web. |
-| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, y contraseña. Los campos deben ser obligatorios y tener carácter valido. |
+| **Descripción** | Se registrará usuarios nuevos en la plataforma que permitirá tener acceso total a páginas y subpáginas y tendrá el control absoluto del sitio web. |
+| **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo (campo obligatorio), correo (campo obligatorio), teléfono (campo obligatorio), ciudad (campo obligatorio), y contraseña (campo obligatorio). |
 
 
-<<<<<<< HEAD
-![reg_admi](reg_admi.jpg)
-###** Figura 5**
-=======
 ![registro_administrador](registro_administrador.png)
 
 ### **Figura 5**
 
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ![log](log.png)
 ### **6 Recuperación de contraseña**
@@ -169,21 +133,13 @@ Obligatorios. |
 | **Nombre** | Recuperación de contraseña |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. El proceso de verificación comienza pidiendo el correo electrónico con el que se registro en la plataforma web, posteriormente el sistema mandará un código de verificación a dicho correo, después el usuario deberá ingresar el código proporcionado, el ultimo paso será proporcionar la nueva contraseña y mostrar un mensaje de cambio exitoso. |
-| **Validación** | Pasos de la validación:- Verificar que el correo electrónico proporcionado este registrado en la plataforma. - Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico. - Verificar que la nueva contraseña no sea la misma que la anterior. - Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
+| **Validación** | Pasos de la validación:
+- Verificar que el correo electrónico proporcionado este registrado en la plataforma.
+- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.
+- Verificar que la nueva contraseña no sea la misma que la anterior.
+- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
 
 ![RF6](RF6.png)
-<<<<<<< HEAD
-### **Figura 6**
-![RF6](RF62.png)
-### **Figura 7**
-![RF6](RF63.png)
-### **Figura 8**
-![RF6](RF64.png)
-### **Figura 9**
-![RF6](RF61.JPG)
-### **Figura 10**
-Diagrama de Recuperacion de contraseña
-=======
 ### **Figura 6** Verificación de correo electrónico.
 ![RF6](RF62.png)
 ### **Figura 6.1** Verificación del Código.
@@ -191,13 +147,13 @@ Diagrama de Recuperacion de contraseña
 ### **Figura 6.2** Verificación de la nueva contraseña.
 ![RF6](RF64.png)
 ### **Figura 6.3** Mensaje de cambio de contraseña exitoso.
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ### **07 Registro de proyectos**
 
 | **Código** | RF-07 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Proyectos |
+<<<<<<< HEAD
 | **Prioridad del Negocio** | Alta/Esencial |
 <<<<<<< HEAD
 | **Descripción** |En este formulario sera de utilidad para que los usuarios de tipo "Artesano" quieran registrar un nuevo proyecto.  |
@@ -207,6 +163,9 @@ un rango de incentivo "incentivo para el usuario que por sus donaciones"  asi mi
 ![registro](registro.png)
 ###** Figura11**
 =======
+=======
+| **Prioridad del Negocio** | Alta/Escencial |
+>>>>>>> 43988b1ece7f97bf051939b5b6fa69dfa382e7d5
 | **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto. |
 | **Validación** | Para que este registro se agregue se pedira los siguientes parametro:
 - Nombre del proyecto.
@@ -220,48 +179,30 @@ y en la parte de monto no sé podra añadir letras ni ningún otro caracter |
 
 ![registro](registro.png)
 ![registro1](registro1.png)
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ### **Figura 7**
 
-### **8 Visualización del proyecto**
+### **8 Visualizacion del proyecto**
 
 | **Codigo** | RF-8 |
 | ----------- | ----------- |
 | **Nombre** | Visualización del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
-| **Descripción** | En este apartado se mostrará la vista del proyecto desde la perspectiva del donante y la del artesano. Para el caso del artesano se contará con un botón extra que permitirá subir nuevas actualizaciones respecto a su proyecto. Las actualizaciones al igual que los atributos del registro de proyecto no serán editables por motivos de seguridad y confiabilidad de cada proyecto. Para la vista del artesano se incluirá un botón que le permita subir actualizaciones. |
-| **Validación** | En sección de la pagina esta divida en 3 partes que la constituyen: - La sección de información general donde se muestran los detalles del proyecto como ser: Nombre del Proyecto, Tiempo para el lanzamiento, Descripción, Fotos o Video del proyecto, Monto requerido y recaudado. - En siguiente sección se observa las actualizaciones que publica el Artesano, ordenadas por fecha de publicación.  - En la última sección se observa los rangos de donación, donde el donante podrá conocer los rangos de las donaciones que posea cada proyecto. En caso de que el Artesano no cuente con incentivos por rangos de donaciones simplemente se mostrar un mensaje que indique que este proyecto no cuenta con rangos de donación. |
-
-<<<<<<< HEAD
-![RF8](RF8.png)
-### **Figura 12**
-=======
-![RF9](RF8.png)
-### **Figura 8** Visualización del proyecyo para el usuario.
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
-
-![RF9](RF81.png)
-### **Figura 8.1** Visualización del proyecto para el artesano.
-
-<<<<<<< HEAD
-| **Codigo** | RF9 |
-| ----------- | ----------- |
-| **Nombre** | Edicion del proyecto |
-| **Prioridad del Negocio** | Alto/Escencial |
-| **Descripción** | El artesano puede editar los datos de su proyecto, una vez que ya este creado dicho proyecto. Esta función esta disponible como un botón en el anterior requerimiento. |
-| **Validación** | En el mockup se observa como el artesano puede editar los datos de un proyecto como ser:
-- Monto Requerido
-- Descripccion 
-- Borra fotos
-- Subir fotos |
+| **Descripción** | En este apartado el artesano puede ver el estado de proyecto con todos los datos que lleno al registrar su proyecto. |
+| **Validación** | El usuario puede observar los datos del proyecto como ser:
+- Descripción.
+- Fotos.
+- Monto Requerido.
+- Monto Recaudado (Hasta el momento). |
 
 ![RF9](RF9.png)
-### **Figura 13**
-=======
-![RF9](RF82.png)
-### **Figura 8.2** Nueva actualización de Proyecto.
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
+### **Figura 9** Visualización del proyecyo para el usuario.
+
+![RF9](RF91.png)
+### **Figura 9** Visualización del proyecto para el artesano.
+
+![RF9](RF92.png)
+### **Figura 9** Agregando nueva actualización.
 
 ### **10 Visualizar perfil de Usuario-Artesano**
 | **Codigo** |	RF-10 |
@@ -272,13 +213,10 @@ y en la parte de monto no sé podra añadir letras ni ningún otro caracter |
 | **Validación** | Para este perfil, el artesano podrá gestionar sus proyectos de manera fácil  a través de un catálogo, el podrá editarlos o agregar un nuevo proyecto. |
 
 ![RF-10](RF-10.png)
-### **Figura 14**
+### **Diagrama 10**
+![Diag-10](Diag-10.png)
 
-![RF-10.1](RF-10.1.png)
-### **Figura 14**
-
-
-
+### **Figura 10**
 
 ### **11 Visualizar perfil de Usuario-Donante**
 | **Codigo** |	RF-11 |
@@ -289,25 +227,26 @@ y en la parte de monto no sé podra añadir letras ni ningún otro caracter |
 | **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
 
 ![RF-11](RF-11.png)
-### **Figura 15**
+### **Diagrama 11**
+![Diag-11](Diag-11.png)
 
-![RF-11](RF-11.1.png)
-### **Figura 15**
-
+### **Figura 11**
 
 ### **12 Formulario de Donaciónes**
 | **Codigo** |	RF-12 |
 | ----------- | ----------- |
-| **Nombre** | Formulario de Donación  |
+| **Nombre** | Registro de Formulario de Donación  |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Una vez que el Donante identifique el proyecto por el cual optará hacer una donación, deberá registrarse en un formulario, registrar el monto a donar y seleccionar el modo de transferencia. |
 | **Validación** | Para que esta donación se lleve a cabo deberá registrar su nombre completo, sexo, correo electrónico, teléfono, ciudad, seleccionar el monto a donar (no menos de 10 Bs.) y el tipo de transferencia. Al seleccionar la modalidad de donación se desplegará una nueva ventana donde se podrá observar los números de cuenta y su descripción. |
 
 ![RF-12](RF-12.png)
-### **Figura 16**
 ![RF-12.1](RF-12.1.png)
-### **Figura 17**
+![RF-12.2](RF-12.2.png)
+### **Diagrama 12**
+![Diag-12](Diag-12.png)
 
+### **Figura 12**
 
 ### **13 Registro de Transferencia**
 | **Codigo** |	RF-13 |
@@ -317,25 +256,24 @@ y en la parte de monto no sé podra añadir letras ni ningún otro caracter |
 | **Descripción** | Se pretende tener un registro de todas las donaciones realizadas, por lo cual cada donante podrá registrar su donación una vez que realice la transferencia.  |
 | **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante. El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
 
-
 ![RF-13](RF-13.png)
 
-### **Figura 19**
+### **Figura 13**
 
 ![RF-13.1](RF-13.1.png)
 
-### **Figura 20**
+### **Figura 13.1**
 
-### **14 Registro de Transferencia**
-| **Codigo** |	RF-14 |
-| ----------- | ----------- |
-| **Nombre** | ¿Quiénes somos?   |
-| **Prioridad del Negocio** | Bajo |
-| **Descripción** |   |
-| **Validación** |  |
+![RF-13.2](RF-13.2.png)
 
-![RF-14](RF-14.png)
-### **Figura 14** Página informativa 
+### **Figura 13.2**
+
+
+![Diag-13](Diag-13.png)
+### **Diagrama 13**
+
+### **Figura 14**
+
 
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
