@@ -140,11 +140,11 @@ obligatorios. |
 - Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
 
 ![RF6](RF6.png)
-### **Figura 6** Verificar que el correo electrónico.
+### **Figura 6** Verificación de correo electrónico.
 ![RF6](RF62.png)
-### **Figura 6.1** Verificar que el Código.
+### **Figura 6.1** Verificación del Código.
 ![RF6](RF63.png)
-### **Figura 6.2** Verificar que la nueva contraseña.
+### **Figura 6.2** Verificación de la nueva contraseña.
 ![RF6](RF64.png)
 ### **Figura 6.3** Mensaje de cambio de contraseña exitoso.
 
@@ -170,7 +170,7 @@ obligatorios. |
 
 | **Codigo** | RF-8 |
 | ----------- | ----------- |
-| **Nombre** | Visualizacion del proyecto |
+| **Nombre** | Visualización del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | En este apartado el artesano puede ver el estado de proyecto con todos los datos que lleno al registrar su proyecto. |
 | **Validación** | El usuario puede observar los datos del proyecto como ser:
@@ -179,30 +179,14 @@ obligatorios. |
 - Monto Requerido.
 - Monto Recaudado (Hasta el momento). |
 
-![RF8](RF8.png)
-### **Figura 8**
-
-### **9 Edicion del proyecto**
-
-| **Codigo** | RF-9 |
-| ----------- | ----------- |
-| **Nombre** | Edicion del proyecto |
-| **Prioridad del Negocio** | Alto/Escencial |
-| **Descripción** | El artesano puede editar los datos de su proyecto, una vez que ya este creado dicho proyecto. Esta función esta disponible como un botón en el anterior requerimiento. |
-| **Validación** | En el mockup se observa como el artesano puede editar los datos de un proyecto como ser:
-- Monto Requerido
-- Descripccion 
-- Borra fotos
-- Subir fotos |
-
 ![RF9](RF9.png)
-### **Figura 9**
+### **Figura 9** Visualización del proyecyo para el usuario.
 
 ![RF9](RF91.png)
-### **Figura 9**
+### **Figura 9** Visualización del proyecto para el artesano.
 
 ![RF9](RF92.png)
-### **Figura 9**
+### **Figura 9** Agregando nueva actualización.
 
 ### **10 Visualizar perfil de Usuario-Artesano**
 | **Codigo** |	RF-10 |
