@@ -75,11 +75,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | ----------- | ----------- |
 | **Nombre** | Login  |
 | **Prioridad del Negocio** |	Alta/Esencial |
-| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la
-Plataforma |
-| **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de
-Usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
-Obligatorios. |
+| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la plataforma|
+| **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de Usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son Obligatorios. |
 
 ![login](login.png)
 
