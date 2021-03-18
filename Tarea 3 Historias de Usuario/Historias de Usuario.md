@@ -147,11 +147,7 @@ obligatorios. |
 | **Nombre** | Recuperación de contraseña |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. El proceso de verificación comienza pidiendo el correo electrónico con el que se registro en la plataforma web, posteriormente el sistema mandará un código de verificación a dicho correo, después el usuario deberá ingresar el código proporcionado, el ultimo paso será proporcionar la nueva contraseña y mostrar un mensaje de cambio exitoso. |
-| **Validación** | Pasos de la validación:
-- Verificar que el correo electrónico proporcionado este registrado en la plataforma.
-- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.
-- Verificar que la nueva contraseña no sea la misma que la anterior.
-- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
+| **Validación** | Pasos de la validación:- Verificar que el correo electrónico proporcionado este registrado en la plataforma.- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.- Verificar que la nueva contraseña no sea la misma que la anterior.- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
 
 ![RF6](RF6.png)
 ### **Figura 6** Verificación de correo electrónico.
@@ -186,17 +182,17 @@ obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Visualización del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
-| **Descripción** | En este apartado el artesano puede ver el estado de proyecto con todos los datos que lleno al registrar su proyecto. |
-| **Validación** |  |
+| **Descripción** | En este apartado se mostrará la vista del proyecto desde la perspectiva del donante y la del artesano. Para el caso del artesano se contará con un botón extra que permitirá subir nuevas actualizaciones respecto a su proyecto. Las actualizaciones al igual que los atributos del registro de proyecto no serán editables por motivos de seguridad y confiabilidad de cada proyecto. Para la vista del artesano se incluirá un botón que le permita subir actualizaciones. |
+| **Validación** | En sección de la pagina esta divida en 3 partes que la constituyen: La sección de información general donde se muestran los detalles del proyecto como ser: Nombre del Proyecto, Tiempo para el lanzamiento, Descripción, Fotos o Video del proyecto, Monto requerido y recaudado. En siguiente sección se observa las actualizaciones que publica el Artesano, ordenadas por fecha de publicación.  En la última sección se observa los rangos de donación, donde el donante podrá conocer los rangos de las donaciones que posea cada proyecto. En caso de que el Artesano no cuente con incentivos por rangos de donaciones simplemente se mostrar un mensaje que indique que este proyecto no cuenta con rangos de donación. |
 
 ![RF8](RF8.png)
-### **Figura 9** Visualización del proyecyo para el usuario.
+### **Figura 8** Visualización del proyecyo para el usuario.
 
 ![RF81](RF81.png)
-### **Figura 9** Visualización del proyecto para el artesano.
+### **Figura 8.1** Visualización del proyecto para el artesano.
 
 ![RF82](RF82.png)
-### **Figura 9** Agregando nueva actualización.
+### **Figura 8.2** Agregando nueva actualización.
 
 ### **10 Visualizar perfil de Usuario-Artesano**
 | **Codigo** |	RF-10 |
