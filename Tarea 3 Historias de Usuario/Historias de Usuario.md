@@ -264,19 +264,6 @@ obligatorios. |
 
 ### **Figura 14**
 
-
-
-<<<<<<< HEAD
-### **14 ¿Quiénes somos?**
-| **Codigo** |	RF-15 |
-| ----------- | ----------- |
-| **Nombre** | ¿Quiénes somos?   |
-| **Prioridad del Negocio** | Bajo |
-| **Descripción** |   |
-| **Validación** |  |
-
-![RF14](RF14.png)
-
 ### **14 Visualizar perfil de Usuario-Administrador**
 =======
 | **Codigo** |	RF-14 |
@@ -302,6 +289,16 @@ obligatorios. |
 ![ad_donadores2](ad_donadores2.png)
 
 ### **Figura 18**
+
+### **14 ¿Quiénes somos?**
+| **Codigo** |	RF-15 |
+| ----------- | ----------- |
+| **Nombre** | ¿Quiénes somos?   |
+| **Prioridad del Negocio** | Bajo |
+| **Descripción** |   |
+| **Validación** |  |
+
+![RF14](RF14.png)
 
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
