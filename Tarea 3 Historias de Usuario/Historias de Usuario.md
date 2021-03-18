@@ -265,7 +265,7 @@ obligatorios. |
 ### **Figura 14**
 
 ### **14 Visualizar perfil de Usuario-Administrador**
-=======
+
 | **Codigo** |	RF-14 |
 | ----------- | ----------- |
 | **Nombre** | Visualizacion perfil de usuario-administrador |
@@ -290,15 +290,15 @@ obligatorios. |
 
 ### **Figura 18**
 
-### **14 ¿Quiénes somos?**
+### **15 ¿Quiénes somos?**
 | **Codigo** |	RF-15 |
 | ----------- | ----------- |
 | **Nombre** | ¿Quiénes somos?   |
 | **Prioridad del Negocio** | Bajo |
-| **Descripción** |   |
-| **Validación** |  |
+| **Descripción** | Este apartado esta dedicado a mostrar la información de la plataforma y a que está orientada la misma. Contemplara la misión, visión y los contactos de los encargados de la plataforma.  |
+| **Validación** | Ninguna solo es informativa. |
 
-![RF14](RF14.png)
+![RF15](RF15.png)
 
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
