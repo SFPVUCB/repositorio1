@@ -37,9 +37,11 @@
 - Figura 8.1 Nueva actualización de Proyecto.
 ---
 # **Índice de Diagramas**
-- 
--
--
+- Diagrama 1
+- Diagrama 2
+- Diagrama 3
+- Diagrama 4
+- Diagrama 5
 ---
 
 ## **Introducción**
@@ -70,13 +72,13 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de usuario**
 
-### **01 Pagina principal**
+### **1 Página principal**
 | **Codigo** |	RF-01 |
 | ----------- | ----------- |
 | **Nombre** | Pagina Principal  |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes modulos de la plataforma |
-| **Validación** | Para esta Vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
+| **Validación** | Para esta vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
 
 ![menu](menu.png)
 
@@ -87,7 +89,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | ----------- | ----------- |
 | **Nombre** | Login  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Al ingresar con una cuenta existente, el botòn de ingresar llevará al usuario a la página principal de la
+| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la
 plataforma |
 | **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de
 usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
@@ -145,11 +147,7 @@ obligatorios. |
 | **Nombre** | Recuperación de contraseña |
 | **Prioridad del Negocio** | Mediano/Deseado |
 | **Descripción** | La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. El proceso de verificación comienza pidiendo el correo electrónico con el que se registro en la plataforma web, posteriormente el sistema mandará un código de verificación a dicho correo, después el usuario deberá ingresar el código proporcionado, el ultimo paso será proporcionar la nueva contraseña y mostrar un mensaje de cambio exitoso. |
-| **Validación** | Pasos de la validación:
-- Verificar que el correo electrónico proporcionado este registrado en la plataforma.
-- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.
-- Verificar que la nueva contraseña no sea la misma que la anterior.
-- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
+| **Validación** | Pasos de la validación:- Verificar que el correo electrónico proporcionado este registrado en la plataforma.- Verificar que el Código que introdujo el Usuario coincide con el que se envió a su correo. electrónico.- Verificar que la nueva contraseña no sea la misma que la anterior.- Verificar que vuelva a escribir correctamente su nueva contraseña en los 2 campos de entrada. |
 
 ![RF6](RF6.png)
 ### **Figura 6** Verificación de correo electrónico.
@@ -184,24 +182,20 @@ obligatorios. |
 | ----------- | ----------- |
 | **Nombre** | Visualización del proyecto |
 | **Prioridad del Negocio** | Mediano/Deseado |
-| **Descripción** | En este apartado el artesano puede ver el estado de proyecto con todos los datos que lleno al registrar su proyecto. |
-| **Validación** | El usuario puede observar los datos del proyecto como ser:
-- Descripción.
-- Fotos.
-- Monto Requerido.
-- Monto Recaudado (Hasta el momento). |
+| **Descripción** | En este apartado se mostrará la vista del proyecto desde la perspectiva del donante y la del artesano. Para el caso del artesano se contará con un botón extra que permitirá subir nuevas actualizaciones respecto a su proyecto. Las actualizaciones al igual que los atributos del registro de proyecto no serán editables por motivos de seguridad y confiabilidad de cada proyecto. Para la vista del artesano se incluirá un botón que le permita subir actualizaciones. |
+| **Validación** | En sección de la pagina esta divida en 3 partes que la constituyen: La sección de información general donde se muestran los detalles del proyecto como ser: Nombre del Proyecto, Tiempo para el lanzamiento, Descripción, Fotos o Video del proyecto, Monto requerido y recaudado. En siguiente sección se observa las actualizaciones que publica el Artesano, ordenadas por fecha de publicación.  En la última sección se observa los rangos de donación, donde el donante podrá conocer los rangos de las donaciones que posea cada proyecto. En caso de que el Artesano no cuente con incentivos por rangos de donaciones simplemente se mostrar un mensaje que indique que este proyecto no cuenta con rangos de donación. |
 
-![RF9](RF9.png)
-### **Figura 9** Visualización del proyecyo para el usuario.
+![RF8](RF8.png)
+### **Figura 8** Visualización del proyecyo para el usuario.
 
-![RF9](RF91.png)
-### **Figura 9** Visualización del proyecto para el artesano.
+![RF81](RF81.png)
+### **Figura 8.1** Visualización del proyecto para el artesano.
 
-![RF9](RF92.png)
-### **Figura 9** Agregando nueva actualización.
+![RF82](RF82.png)
+### **Figura 8.2** Agregando nueva actualización.
 
-### **9 Visualizar perfil de Usuario-Artesano**
-| **Codigo** |	RF-9 |
+### **10 Visualizar perfil de Usuario-Artesano**
+| **Codigo** |	RF-10 |
 | ----------- | ----------- |
 | **Nombre** | Perfil de usuario-Artesano |
 | **Prioridad del Negocio** |	Alta/Escencial |
@@ -209,14 +203,13 @@ obligatorios. |
 | **Validación** | Para esta validación se deberá ingresar como usuario “Artesano”, en la opción de proyectos vigentes se podrá ver. El tiempo restante del proyecto, el monto requerido para la ejecución del proyecto y el monto recaudado hasta la fecha. También tendrá la opción de agregar un nuevo proyecto, que lo redireccionará a un formulario de registros de proyectos. Los proyectos en proceso permitirán, visualizar el monto final recaudado, con el que el artesano empezó la elaboración del proyecto. Aquí podrá agregar actualizaciones por proyecto (recomendable que sea semanalmente), para que los donares puedan hacer seguimiento al proyecto que decidieron apoyar con una donación. |
 
 ![RF-10](RF-10.png)
-#### **Figura Pagina Principal "Artesano - Proyectos Vigentes"**
+### **Diagrama 10**
+![Diag-10](Diag-10.png)
 
-![RF-10](RF-10.1.png)
-#### **Figura Pagina Principal "Artesano - Proyectos Vigentes"**
+### **Figura 10**
 
-
-### **10 Visualizar perfil de Usuario-Donante**
-| **Codigo** |	RF-10 |
+### **11 Visualizar perfil de Usuario-Donante**
+| **Codigo** |	RF-11 |
 | ----------- | ----------- |
 | **Nombre** | Perfil de usuario-Donante |
 | **Prioridad del Negocio** |	Alta/Escencial |
@@ -225,32 +218,33 @@ obligatorios. |
 
 ![RF-11](RF-11.png)
 ### **Diagrama 11**
+![Diag-11](Diag-11.png)
 
-![RF-11](RF-11.1.png)
-### **Diagrama 11**
+### **Figura 11**
 
-
-### **11 Formulario de Donaciónes**
-| **Codigo** |	RF-11 |
+### **12 Formulario de Donaciónes**
+| **Codigo** |	RF-12 |
 | ----------- | ----------- |
-| **Nombre** |Formulario de Donación  |
+| **Nombre** | Registro de Formulario de Donación  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Una vez que se identifique que proyecto apoyar, podrás realizar una donación a la vez, para esto aras clic en el botón “Donar” y se abrirá un formulario que identificara el nombre del donante y el nombre del proyecto. Podrás seleccionar una de las dos opciones para que puedas realizar la transferencia externamente. Una vez realizada la transferencia, tendrás que validarla, eligiendo esa opción, donde se habilitará un nuevo formulario que te permitirá agregar o subir en modo imagen el comprobante de la transferencia. Para finalizar, se deberá enviar todo ese proceso, para que, en un periodo de 24 horas, los administradores puedan verificar la transacción y registrarla como donación exitosa.|
-| **Validación** | Para este proceso, se deberá elegir un proyecto en la sección de proyectos vigentes, la opción “Donar” te permitirá accederá un formulario que contendrá tus datos y únicamente deveras elegir una opción de donación. Para que tu transferencia sea registrada, se deberá subir una foto o scrinshot de la transacción bancaria o transferencia, este se enviara solo a los administradores para su respectiva verificación. |
+| **Descripción** | Cada donante registrado contará con un perfil personal donde podrá ver todos aquellos proyectos que hizo alguna donación y así poder hacer seguimiento del proyecto. |
+| **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
 
 ![RF-12](RF-12.png)
+![RF-12.1](RF-12.1.png)
+![RF-12.2](RF-12.2.png)
+### **Diagrama 12**
+![Diag-12](Diag-12.png)
+
 ### **Figura 12**
 
-![RF-12.1](RF-12.1.png)
-### **Diagrama 12**
-
-### **12 Notificaciones**
+### **13 Registro de Transferencia**
 | **Codigo** |	RF-13 |
 | ----------- | ----------- |
-| **Nombre** | Notificaciones  |
+| **Nombre** | Registro de Transferencia  |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Por cada validación de transferencia enviada, se notificará a través de un mensaje a una cuenta de los administradores.Esta notificación permitirá ver solo datos esenciales (nombre proyecto, nombre donante, modalidad de donación y comprobante de transferencia) para que ayude a verificar que realmente se hizo la transacción y proceder al registro de la donación.|
-| **Validación** | Para este proceso, los donadores deberán enviar la validación de transferencia, subiendo una imagen que compruebe que efectivamente se realizó la transacción. Los administradores contarán con la opción de notificaciones, ahí recibirán todas las validaciones de transferencias enviadas por los donadores. Cada notificación deberá agregar el monto de donación previamente comprobado, para que posteriormente sea registrada directamente en la base de Datos y ser visualizada en el perfil de los administradores.|
+| **Descripción** | Se pretende tener un registro de todas las donaciones realizadas, por lo cual cada donante podrá registrar su donación una vez que realice la transferencia.  |
+| **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante. El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
 
 ![RF-13](RF-13.png)
 
@@ -260,58 +254,52 @@ obligatorios. |
 
 ### **Figura 13.1**
 
+![RF-13.2](RF-13.2.png)
+
+### **Figura 13.2**
 
 
-### **13 Visualizar perfil de Usuario-Administrador**
+![Diag-13](Diag-13.png)
+### **Diagrama 13**
 
-<<<<<<< HEAD
-=======
-
-
-<<<<<<< HEAD
->>>>>>> 03115dcca228724d1790bc7e832b10ce65aa22fa
-### **14 ¿Quiénes somos?**
-| **Codigo** |	RF-13 |
-| ----------- | ----------- |
-| **Nombre** | ¿Quiénes somos?   |
-| **Prioridad del Negocio** | Bajo |
-| **Descripción** |   |
-| **Validación** |  |
-
-![RF14](RF14.png)
+### **Figura 14**
 
 ### **14 Visualizar perfil de Usuario-Administrador**
-=======
-| **Codigo** |	RF-15 |
+
+| **Codigo** |	RF-14 |
 | ----------- | ----------- |
 | **Nombre** | Visualizacion perfil de usuario-administrador |
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | El usuario administrador podrá verificar todos los proyectos publicados por los artesanos registrados, los proyectos se visualizarán en orden descendente mostrando el último proyecto publicado al inicio, también podrá realizar búsquedas de los proyectos por intervalos de tiempo. Cada proyecto mostrara toda la información del proyecto como ser: Fecha de publicación, nombre del artesano, tiempo de publicación, tiempo restante de la publicación al momento, monto requerido, monto recaudado y descripción del proyecto. En la pestaña Artesanos el usuario administrador podrá verificar los datos con los que se registró el artesano y el número de proyectos que publico. Se podrá verificar en la pestaña de Donadores la información necesaria sobre cada donador nombre, correo fecha de donación, monto de donación por proyecto. Se podrá realizar la búsqueda por nombre del donador o proyecto mostrando una pantalla con el total donado. |
 | **Validación** | Para este perfil el administrador tendrá toda la información que se publique sobre proyectos, registro de artesanos y cuantos proyectos tiene publicados y también podrá obtener información sobre donaciones realizadas a cada proyecto. |
-<<<<<<< HEAD
-
-=======
->>>>>>> 03115dcca228724d1790bc7e832b10ce65aa22fa
 
 
 ![ad_proy](ad_proy.png)
 
 ### **Figura 15**
 
-![artesanos](artesanos.png)
+![ad_art](ad_art.png)
 
 ### **Figura 16**
 
-![donadores1](donadores1.png)
+![ad_donadores](ad_donadores.png)
 
 ### **Figura 17**
 
-![donadores2](donadores2.png)
+![ad_donadores2](ad_donadores2.png)
 
 ### **Figura 18**
 
-![diag14](diag14.png)
-### **Diagrama 14**
+### **15 ¿Quiénes somos?**
+| **Codigo** |	RF-15 |
+| ----------- | ----------- |
+| **Nombre** | ¿Quiénes somos?   |
+| **Prioridad del Negocio** | Bajo |
+| **Descripción** | Este apartado esta dedicado a mostrar la información de la plataforma y a que está orientada la misma. Contemplara la misión, visión y los contactos de los encargados de la plataforma.  |
+| **Validación** | Ninguna solo es informativa. |
+
+![RF15](RF15.png)
+
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
 se cumplió con el objetivo del documento, logrando identificar los requisitos
