@@ -266,11 +266,10 @@ Diagrama de Recuperacion de contraseña
 | **Validación** | Para este perfil, el artesano podrá gestionar sus proyectos de manera fácil  a través de un catálogo, el podrá editarlos o agregar un nuevo proyecto. |
 
 ![RF-10](RF-10.png)
-###**Figura 14**
-
+### **Figura 14**
 
 ![RF-10.1](RF-10.1.png)
-###**Figura 14**
+### **Figura 14**
 
 
 
@@ -284,10 +283,10 @@ Diagrama de Recuperacion de contraseña
 | **Validación** | Para este perfil, el donante podrá gestionar todos los proyectos a cuál el atribuyo una donación, podrá hacer seguimiento del proyecto viendo actualizaciones en base de imágenes o videos que suba cada semana el artesano. Si el Donante ve que el proyecto va por buen camino siempre tendrá la opción de hacer una nueva donación. |
 
 ![RF-11](RF-11.png)
-###**Figura 15**
+### **Figura 15**
 
 ![RF-11](RF-11.1.png)
-###**Figura 15**
+### **Figura 15**
 
 
 ### **12 Formulario de Donaciónes**
@@ -299,16 +298,10 @@ Diagrama de Recuperacion de contraseña
 | **Validación** | Para que esta donación se lleve a cabo deberá registrar su nombre completo, sexo, correo electrónico, teléfono, ciudad, seleccionar el monto a donar (no menos de 10 Bs.) y el tipo de transferencia. Al seleccionar la modalidad de donación se desplegará una nueva ventana donde se podrá observar los números de cuenta y su descripción. |
 
 ![RF-12](RF-12.png)
-###**Figura 16**
+### **Figura 16**
 ![RF-12.1](RF-12.1.png)
-###**Figura 17**
-![RF-12.2](RF-12.2.png)
-###**Figura 18**
+### **Figura 17**
 
-![Diag-12](Diag-12.png)
-### **Diagrama 12**
-
-### **Figura 12**
 
 ### **13 Registro de Transferencia**
 | **Codigo** |	RF-13 |
@@ -318,34 +311,16 @@ Diagrama de Recuperacion de contraseña
 | **Descripción** | Se pretende tener un registro de todas las donaciones realizadas, por lo cual cada donante podrá registrar su donación una vez que realice la transferencia.  |
 | **Validación** | Para este registro el sistema automáticamente generara un numero de transferencia y los datos del donante. El donante podrá volver a confirmar su monto de transacción y agregar una imagen con el comprobante (foto o scrinshot), y al final se enviará ese registro a los administradores para que sea verificado o rechazado. |
 
+
 ![RF-13](RF-13.png)
-<<<<<<< HEAD
-###**Figura 19**
-![RF-13.1](RF-13.1.png)
-###**Figura 20**
-![RF-13.2](RF-13.2.png)
-###**Figura 21**
-=======
 
-### **Figura 13**
+### **Figura 19**
 
 ![RF-13.1](RF-13.1.png)
 
-### **Figura 13.1**
+### **Figura 20**
 
-![RF-13.2](RF-13.2.png)
 
-### **Figura 13.2**
-
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
-
-![Diag-13](Diag-13.png)
-### **Diagrama 13**
-
-<<<<<<< HEAD
-=======
-### **Figura 14**
->>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
 se cumplió con el objetivo del documento, logrando identificar los requisitos
