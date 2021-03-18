@@ -85,7 +85,6 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Prioridad del Negocio** |	Alta/Escencial |
 | **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes modulos de la plataforma |
 | **Validación** | Para esta vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
->>>>>>> ad3de875062440400935c123c0a4935be39a039e
 
 ![menu](menu.png)
 
@@ -170,20 +169,13 @@ obligatorios. |
 | **Codigo** | RF-07 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Proyectos |
-<<<<<<< HEAD
-<<<<<<< HEAD
 | **Prioridad del Negocio** | Alta/Esencial |
-<<<<<<< HEAD
 | **Descripción** |En este formulario sera de utilidad para que los usuarios de tipo "Artesano" quieran registrar un nuevo proyecto.  |
-| **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos así mismo podrá subir imágenes y también 
-un rango de incentivo "incentivo para el usuario que por sus donaciones"  así mismo podrá poner sus respectivos rangos y fecha de cada uno de ellos |
+| **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos así mismo podrá subir imágenes y también un rango de incentivo "incentivo para el usuario que por sus donaciones"  así mismo podrá poner sus respectivos rangos y fecha de cada uno de ellos |
 
 ![registro](registro.png)
 ###** Figura11**
-=======
-=======
-=======
->>>>>>> ad3de875062440400935c123c0a4935be39a039e
+
 | **Prioridad del Negocio** | Alta/Escencial |
 | **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto. |
 | **Validación** | Para que este registro se agregue se pedira los siguientes parametro:
