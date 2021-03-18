@@ -203,10 +203,10 @@ obligatorios. |
 | **Validación** | Para esta validación se deberá ingresar como usuario “Artesano”, en la opción de proyectos vigentes se podrá ver. El tiempo restante del proyecto, el monto requerido para la ejecución del proyecto y el monto recaudado hasta la fecha. También tendrá la opción de agregar un nuevo proyecto, que lo redireccionará a un formulario de registros de proyectos. Los proyectos en proceso permitirán, visualizar el monto final recaudado, con el que el artesano empezó la elaboración del proyecto. Aquí podrá agregar actualizaciones por proyecto (recomendable que sea semanalmente), para que los donares puedan hacer seguimiento al proyecto que decidieron apoyar con una donación. |
 
 ![RF-10](RF-10.png)
-### **Diagrama 10**
-![Diag-10](Diag-10.png)
+### **figura 9**
+![RF-10](RF-10.1.png)
 
-### **Figura 10**
+### **Figura 9.1**
 
 ### **10 Visualizar perfil de Usuario-Donante**
 | **Codigo** |	RF-10 |
@@ -219,9 +219,10 @@ obligatorios. |
 ![RF-11](RF-11.png)
 ### **Figura 10**
 
-![Diag-11](Diag-11.png)
+![RF-11](RF-11.1.png)
 
-### **Figura 11**
+
+### **Figura 10.1**
 
 ### **11 Formulario de Donaciónes**
 | **Codigo** |	RF-11 |
