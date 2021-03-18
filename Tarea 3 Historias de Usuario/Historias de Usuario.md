@@ -13,16 +13,16 @@
 - Dennys Michel
 ---
 # **Índice de Historias de Usuario**
-- Pagina principal
-- Inicio de Sesion
+- Página principal
+- Inicio de Sesión
 - Registro del Artesano
 - Registro de Donador
 - Registro del Administrador
 - Recuperar contraseña
 - Registrar Proyecto
-- Visualizacion del proyecto
-- Visualizacion del perfil del artesano
-- Visualizacion del perfil del donante
+- Visualización del proyecto
+- Visualización del perfil del artesano
+- Visualización del perfil del donante
 - Formulario de donaciones
 - Registro de transferencia
 ---
