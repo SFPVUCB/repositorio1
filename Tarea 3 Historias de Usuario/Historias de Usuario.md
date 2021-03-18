@@ -26,10 +26,22 @@
 - Formulario de donaciones
 - Registro de transferencia
 ---
-# **Indice de Figuras**
-- 
+# **Índice de Figuras**
 
+- Figura 6 Verificación de correo electrónico.
+- Figura 6.1 Verificación del Código.
+- Figura 6.2 Verificación de la nueva contraseña.
+- Figura 6.3 Mensaje de cambio de contraseña exitoso.
+- Figura 8 Visualización del proyecyo para el usuario.
+- Figura 8.1 Visualización del proyecto para el artesano.
+- Figura 8.1 Nueva actualización de Proyecto.
 ---
+# **Índice de Diagramas**
+- 
+-
+-
+---
+
 ## **Introducción**
 
 En el presente documento se puede observar las historias de Usuario para la plataforma de crowdfunding “Waliki”. Una historia de usuario es una representación de los requisitos que se precisan para la elaboración de un sistema, 
@@ -252,6 +264,12 @@ obligatorios. |
 
 ### **13 Visualizar perfil de Usuario-Administrador**
 
+<<<<<<< HEAD
+=======
+
+
+<<<<<<< HEAD
+>>>>>>> 03115dcca228724d1790bc7e832b10ce65aa22fa
 ### **14 ¿Quiénes somos?**
 | **Codigo** |	RF-13 |
 | ----------- | ----------- |
@@ -262,17 +280,38 @@ obligatorios. |
 
 ![RF14](RF14.png)
 
-### **Figura 14** Página informativa 
+### **14 Visualizar perfil de Usuario-Administrador**
 =======
-| **Codigo** |	RF-14 |
+| **Codigo** |	RF-15 |
 | ----------- | ----------- |
-| **Nombre** | Visualizacion perfil de usuario.administrador |
+| **Nombre** | Visualizacion perfil de usuario-administrador |
 | **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | El usuario administrador podrá verificar todos los proyectos publicados por los artesanos registrados, los proyectos se visualizarán en orden descendente mostrando el último proyecto publicado al inicio, también podrá realizar búsquedas de los proyectos por intervalos de tiempo. Cada proyecto mostrara toda la información del proyecto como ser: Fecha de publicación, nombre del artesano, tiempo de publicación, tiempo restante de la publicación al momento, monto requerido, monto recaudado y descripción del proyecto.Pestaña Artesanos el usuario administrador podrá verificar los datos con los que se registró el artesano y el número de proyectos que publico.Se podrá verificar en la pestaña de Donadores la información necesaria sobre cada donador nombre, correo fecha de donación, monto de donación por proyecto. Se podrá realizar la búsqueda por nombre del donador o proyecto mostrando una pantalla con el total donado. |
+| **Descripción** | El usuario administrador podrá verificar todos los proyectos publicados por los artesanos registrados, los proyectos se visualizarán en orden descendente mostrando el último proyecto publicado al inicio, también podrá realizar búsquedas de los proyectos por intervalos de tiempo. Cada proyecto mostrara toda la información del proyecto como ser: Fecha de publicación, nombre del artesano, tiempo de publicación, tiempo restante de la publicación al momento, monto requerido, monto recaudado y descripción del proyecto. En la pestaña Artesanos el usuario administrador podrá verificar los datos con los que se registró el artesano y el número de proyectos que publico. Se podrá verificar en la pestaña de Donadores la información necesaria sobre cada donador nombre, correo fecha de donación, monto de donación por proyecto. Se podrá realizar la búsqueda por nombre del donador o proyecto mostrando una pantalla con el total donado. |
 | **Validación** | Para este perfil el administrador tendrá toda la información que se publique sobre proyectos, registro de artesanos y cuantos proyectos tiene publicados y también podrá obtener información sobre donaciones realizadas a cada proyecto. |
+<<<<<<< HEAD
+
+=======
+>>>>>>> 03115dcca228724d1790bc7e832b10ce65aa22fa
 
 
-![ad_artesanos](ad_artesanos.png)
+![ad_proy](ad_proy.png)
+
+### **Figura 15**
+
+![artesanos](artesanos.png)
+
+### **Figura 16**
+
+![donadores1](donadores1.png)
+
+### **Figura 17**
+
+![donadores2](donadores2.png)
+
+### **Figura 18**
+
+![diag14](diag14.png)
+### **Diagrama 14**
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
 se cumplió con el objetivo del documento, logrando identificar los requisitos
