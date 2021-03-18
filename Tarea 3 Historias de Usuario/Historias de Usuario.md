@@ -25,6 +25,7 @@
 - Visualización del perfil del donante
 - Formulario de donaciones
 - Registro de transferencia
+- ¿Quiénes somos? 
 ---
 # **Indice de Figuras**
 
@@ -320,6 +321,16 @@ Diagrama de Recuperacion de contraseña
 
 ### **Figura 20**
 
+### **14 Registro de Transferencia**
+| **Codigo** |	RF-14 |
+| ----------- | ----------- |
+| **Nombre** | ¿Quiénes somos?   |
+| **Prioridad del Negocio** | Bajo |
+| **Descripción** |   |
+| **Validación** |  |
+
+![RF-14](RF-14.png)
+### **Figura 14** Página informativa 
 
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
