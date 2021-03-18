@@ -94,7 +94,7 @@ obligatorios. |
 | **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a paginas y subpáginas. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, dirección y contraseña, es necesario leer el contrato digital y aceptar las condiciones del contrato. Los campos deben ser obligatorios y tener carácter valido. |
 
-![reg_donador](reg_donador.jpg)
+![registro_donador](registro_donador.png)
 
 ### **Figura 3**
 
@@ -107,7 +107,7 @@ obligatorios. |
 | **Descripción** | Se registrara usuarios nuevos en la plataforma que permitirá tener acceso a páginas y subpáginas. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, dirección, cuenta bancaria, contraseña y carga de fotografía. Los campos deben ser obligatorios y tener carácter valido. |
 
-![reg_artesano](reg_artesano.jpg)
+![registro_artesano](registro_artesano.png)
 
 ### **Figura 4**
 
@@ -121,7 +121,7 @@ obligatorios. |
 | **Validación** | Para que un nuevo usuario sea registrado en la plataforma debe ingresar un nombre completo, correo, teléfono, ciudad, y contraseña. Los campos deben ser obligatorios y tener carácter valido. |
 
 
-![reg_admi](reg_admi.jpg)
+![registro_administrador](registro_administrador.png)
 
 ### **Figura 5**
 
