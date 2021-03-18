@@ -321,7 +321,7 @@ Diagrama de Recuperacion de contraseña
 
 ### **Figura 20**
 
-### **14 Registro de Transferencia**
+### **14 ¿Quiénes somos?**
 | **Codigo** |	RF-14 |
 | ----------- | ----------- |
 | **Nombre** | ¿Quiénes somos?   |
@@ -329,7 +329,8 @@ Diagrama de Recuperacion de contraseña
 | **Descripción** |   |
 | **Validación** |  |
 
-![RF-14](RF-14.png)
+![RF14](RF14.png)
+
 ### **Figura 14** Página informativa 
 
 ## **Conclusión**
