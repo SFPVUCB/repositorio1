@@ -162,6 +162,7 @@ obligatorios. |
 - Agregar Imagenes. |
 
 ![registro](registro.png)
+![registro1](registro1.png)
 
 ### **Figura 7**
 
