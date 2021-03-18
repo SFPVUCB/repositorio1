@@ -274,7 +274,7 @@ obligatorios. |
 
 <<<<<<< HEAD
 ### **14 ¿Quiénes somos?**
-| **Codigo** |	RF-14 |
+| **Codigo** |	RF-15 |
 | ----------- | ----------- |
 | **Nombre** | ¿Quiénes somos?   |
 | **Prioridad del Negocio** | Bajo |
