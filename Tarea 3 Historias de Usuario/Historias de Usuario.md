@@ -69,13 +69,13 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de usuario**
 
-### **01 Pagina principal**
+### **01 Página principal**
 | **Codigo** |	RF-01 |
 | ----------- | ----------- |
 | **Nombre** | Pagina Principal  |
-| **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Esta sera la pagina de inicio donde el usuario/cliente podra acceder a los diferentes modulos de la plataforma |
-| **Validación** | Para esta Vista previa se mostrara una lista de menus donde el usuario podra ver el contenido de la pagina  |
+| **Prioridad del Negocio** |	Alta/Esencial |
+| **Descripción** | Esta sera la página de inicio donde el usuario/cliente podra acceder a los diferentes módulos de la plataforma |
+| **Validación** | Para esta Vista previa se mostrara una lista de menús donde el usuario podra ver el contenido de la página  |
 
 ![menu](menu.png)
 <<<<<<< HEAD
@@ -86,15 +86,15 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 >>>>>>> e4d56d853c2f581165c591be8dcf95dbf6ed6fe3
 
 ### **02 Login**
-| **Codigo** |	RF-02 |
+| **Código** |	RF-02 |
 | ----------- | ----------- |
 | **Nombre** | Login  |
-| **Prioridad del Negocio** |	Alta/Escencial |
-| **Descripción** | Al ingresar con una cuenta existente, el botòn de ingresar llevará al usuario a la página principal de la
-plataforma |
+| **Prioridad del Negocio** |	Alta/Esencial |
+| **Descripción** | Al ingresar con una cuenta existente, el botón de ingresar llevará al usuario a la página principal de la
+Plataforma |
 | **Validación** | Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de
-usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
-obligatorios. |
+Usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son
+Obligatorios. |
 
 ![login](login.png)
 <<<<<<< HEAD
@@ -194,13 +194,14 @@ Diagrama de Recuperacion de contraseña
 
 ### **07 Registro de proyectos**
 
-| **Codigo** | RF-07 |
+| **Código** | RF-07 |
 | ----------- | ----------- |
 | **Nombre** | Registro de Proyectos |
-| **Prioridad del Negocio** | Alta/Escencial |
+| **Prioridad del Negocio** | Alta/Esencial |
 <<<<<<< HEAD
-| **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto.  |
-| **Validación** | La plataforma muestra los registros de los diferentes usuarios  |
+| **Descripción** |En este formulario sera de utilidad para que los usuarios de tipo "Artesano" quieran registrar un nuevo proyecto.  |
+| **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos asi mismo podra subir imágenes y también 
+un rango de incentivo "incentivo para el usuario que por sus donaciones"  asi mismo podra poner sus respectivos rangos y fecha de cada uno de ellos |
 
 ![registro](registro.png)
 ###** Figura11**
@@ -208,9 +209,13 @@ Diagrama de Recuperacion de contraseña
 | **Descripción** |En este formulario se utilizara para que los usuarios de tipo "Artesano" quiera registrar un nuevo proyecto. |
 | **Validación** | Para que este registro se agregue se pedira los siguientes parametro:
 - Nombre del proyecto.
-- Monto de Recaudacion. 
-- Descripcion detallada del proyecto.
-- Agregar Imagenes. |
+- Monto de Recaudación. 
+- Descripción detallada del proyecto.
+- Agregar Archivo
+- Agregar Rango. 
+Cada espacio sera validado por ejemplo en la parte de nombre solo se podra añadir letras no se podra añadir ningún otro caracter "@,/,&,$,etc.
+y en la parte de monto no sé podra añadir letras ni ningún otro caracter |
+
 
 ![registro](registro.png)
 ![registro1](registro1.png)
