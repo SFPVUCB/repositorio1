@@ -61,10 +61,10 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 ### **01 Página principal**
 | **Codigo** |	RF-01 |
 | ----------- | ----------- |
-| **Nombre** | Pagina Principal  |
+| **Nombre** | Página Principal  |
 | **Prioridad del Negocio** |	Alta/Esencial |
-| **Descripción** | Esta sera la página de inicio donde el usuario/cliente podra acceder a los diferentes módulos de la plataforma |
-| **Validación** | Para esta Vista previa se mostrara una lista de menús donde el usuario podra ver el contenido de la página  |
+| **Descripción** | Esta sera la página de inicio donde el usuario/cliente podrá acceder a los diferentes módulos de la plataforma |
+| **Validación** | Para esta Vista previa se mostrara una lista de menús donde el usuario podrá ver el contenido de la página  |
 
 ![menu](menu.png)
 
@@ -154,8 +154,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Prioridad del Negocio** | Alta/Esencial |
 <<<<<<< HEAD
 | **Descripción** |En este formulario sera de utilidad para que los usuarios de tipo "Artesano" quieran registrar un nuevo proyecto.  |
-| **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos asi mismo podra subir imágenes y también 
-un rango de incentivo "incentivo para el usuario que por sus donaciones"  asi mismo podra poner sus respectivos rangos y fecha de cada uno de ellos |
+| **Validación** |La plataforma muestra los espacios para registras los nuevos proyectos así mismo podrá subir imágenes y también 
+un rango de incentivo "incentivo para el usuario que por sus donaciones"  así mismo podrá poner sus respectivos rangos y fecha de cada uno de ellos |
 
 ![registro](registro.png)
 ###** Figura11**
