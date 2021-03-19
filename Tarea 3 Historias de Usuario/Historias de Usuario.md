@@ -128,7 +128,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ### **05 Registro de Usuario - Administrador**
 
-| **Codigo** | RF05 |
+| **Codigo** | RF-05 |
 | ----------- | ----------- |
 | **Nombre** | Registro de cuenta para administradores |
 | **Prioridad del Negocio** | Alta/Escencial |
@@ -275,19 +275,23 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![ad_proy](ad_proy.png)
 
+### **Figura 14**
+
+![artesanos](artesanos.png)
+
 ### **Figura 15**
 
-![ad_art](ad_art.png)
+![donadores1](donadores1.png)
 
 ### **Figura 16**
 
-![ad_donadores](ad_donadores.png)
+![donadores2](donadores2.png)
 
 ### **Figura 17**
 
-![ad_donadores2](ad_donadores2.png)
+### **Diagrama**
 
-### **Figura 18**
+![diag-14](diag-14.png)
 
 ### **15 ¿Quiénes somos?**
 | **Codigo** |	RF-15 |
