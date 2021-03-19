@@ -111,7 +111,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![registro_donador](registro_donador.png)
 
-### **Figura 3**
+### **Figura 3- Registro Usuario- Donante**
 
 ### **04 Registro de Usuario - Artesano**
 
@@ -124,7 +124,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![registro_artesano](registro_artesano.png)
 
-### **Figura 4**
+### **Figura 4 - Registro Usuario - Artesano**
 
 ### **05 Registro de Usuario - Administrador**
 
@@ -138,7 +138,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![registro_administrador](registro_administrador.png)
 
-### **Figura 5**
+### **Figura 5-Registro de Usuario - Administrador**
 
 
 ![log](log.png)
@@ -260,9 +260,9 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 
 
-### **14 Visualizar perfil de Usuario-Administrador**
+### **13 Visualizar perfil de Usuario-Administrador**
 
-| **Codigo** |	RF-14 |
+| **Codigo** |	RF-13 |
 | ----------- | ----------- |
 | **Nombre** | Visualizacion perfil de usuario-administrador |
 | **Prioridad del Negocio** |	Alta/Escencial |
@@ -272,21 +272,21 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![ad_proy](ad_proy.png)
 
-### **Figura 14**
+### **Figura 14 - Proyectos publicados**
 
 ![artesanos](artesanos.png)
 
-### **Figura 15**
+### **Figura 15 - Artesanos registrados**
 
 ![donadores1](donadores1.png)
 
-### **Figura 16**
+### **Figura 16 - Listado de donadores**
 
 ![donadores2](donadores2.png)
 
-### **Figura 17**
+### **Figura 17 - Verificacion de donaciones realizadas**
 
-### **Diagrama**
+### **Diagrama - Registro Usuario Administrador**
 
 ![diag-14](diag-14.png)
 
