@@ -229,10 +229,10 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Validación** | Para este proceso, se deberá elegir un proyecto en la sección de proyectos vigentes, la opción “Donar” te permitirá accederá un formulario que contendrá tus datos y únicamente deveras elegir una opción de donación. Para que tu transferencia sea registrada, se deberá subir una foto o scrinshot de la transacción bancaria o transferencia, este se enviara solo a los administradores para su respectiva verificación. |
 
 ![RF-12](RF-12.png)
-### **Figura 10 Formulario de Donación**
+### **Figura 11** Formulario de Donación.
 
 ![RF-12.1](RF-12.1.png)
-### **Figura 10 Agregar Comprobante**
+### **Figura 11.1** Agregar Comprobante.
 
 ### **12 Notificaciones**
 | **Codigo** |	RF-12 |
@@ -243,13 +243,11 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 | **Validación** | Para este proceso, los donadores deberán enviar la validación de transferencia, subiendo una imagen que compruebe que efectivamente se realizó la transacción. Los administradores contarán con la opción de notificaciones, ahí recibirán todas las validaciones de transferencias enviadas por los donadores. Cada notificación deberá agregar el monto de donación previamente comprobado, para que posteriormente sea registrada directamente en la base de Datos y ser visualizada en el perfil de los administradores.|
 
 ![RF-13](RF-13.png)
-### **figura 10 Notificación - Administrador**
+### **Figura 12** Notificación - Administrador.
 
 ![RF-13.1](RF-13.1.png)
 
-### **Figura 13 Registrar Donación**
-
-
+### **Figura 12.1** Registrar Donación.
 
 ### **13 Visualizar perfil de Usuario-Administrador**
 
@@ -263,23 +261,22 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![ad_proy](ad_proy.png)
 
-### **Figura 14 - Proyectos publicados**
+### **Figura 13 - Proyectos publicados**
 
 ![artesanos](artesanos.png)
 
-### **Figura 15 - Artesanos registrados**
+### **Figura 13.1 - Artesanos registrados**
 
 ![donadores1](donadores1.png)
 
-### **Figura 16 - Listado de donadores**
+### **Figura 13.2 - Listado de donadores**
 
 ![donadores2](donadores2.png)
 
-### **Figura 17 - Verificacion de donaciones realizadas**
-
-### **Diagrama - Registro Usuario Administrador**
+### **Figura 13.3 - Verificacion de donaciones realizadas**
 
 ![diag-14](diag-14.png)
+### **Diagrama** Registro Usuario Administrador.
 
 ### **15 ¿Quiénes somos?**
 | **Codigo** |	RF-15 |
