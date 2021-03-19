@@ -27,21 +27,37 @@
 - Registro de transferencia
 ---
 # **Índice de Figuras**
-
+- Figura 1 Vista de la página principal.
+- Figura 2 Inicio de sesión.
+- Figura 3 Registro Usuario- Donante.
+- Figura 4 Registro Usuario Artesano.
+- Figura 5 Registro de Usuario Administrador.
 - Figura 6 Verificación de correo electrónico.
 - Figura 6.1 Verificación del Código.
 - Figura 6.2 Verificación de la nueva contraseña.
 - Figura 6.3 Mensaje de cambio de contraseña exitoso.
+- Figura 7 Registro de proyecto.
+- Figura 7.1 Creación rango de insentivos.
 - Figura 8 Visualización del proyecyo para el usuario.
 - Figura 8.1 Visualización del proyecto para el artesano.
-- Figura 8.1 Nueva actualización de Proyecto.
+- Figura 8.2 Agregando nueva actualización.
+- Figura 9 Perfil de Artesano - Proyectos Vigentes.
+- Figura 10 Perfil de Donante - Proyectos Vigentes.
+- Figura 10.1 Perfil de Donante - Proyectos en Proceso.
+- Figura 11 Formulario de Donación.
+- Figura 11.1 Agregar Comprobante.
+- Figura 12 Notificación - Administrador.
+- Figura 12.1 Registrar Donación.
+- Figura 13 Proyectos publicados.
+- Figura 13.1 Artesanos registrados.
+- Figura 13.2 Listado de donadores.
+- Figura 13.3 Verificacion de donaciones realizada.
+- Figura 14 Modulo informativo.
 ---
 # **Índice de Diagramas**
-- Diagrama 1
-- Diagrama 2
-- Diagrama 3
-- Diagrama 4
-- Diagrama 5
+- Diagrama 1 Creación de cuenta
+- Diagrama 2 Registro Usuario Administrador.
+
 ---
 
 ## **Introducción**
@@ -261,32 +277,34 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ![ad_proy](ad_proy.png)
 
-### **Figura 13 - Proyectos publicados**
+### **Figura 13 Proyectos publicados**
 
 ![artesanos](artesanos.png)
 
-### **Figura 13.1 - Artesanos registrados**
+### **Figura 13.1 Artesanos registrados**
 
 ![donadores1](donadores1.png)
 
-### **Figura 13.2 - Listado de donadores**
+### **Figura 13.2 Listado de donadores**
 
 ![donadores2](donadores2.png)
 
-### **Figura 13.3 - Verificacion de donaciones realizadas**
+### **Figura 13.3 Verificacion de donaciones realizadas**
 
 ![diag-14](diag-14.png)
 ### **Diagrama** Registro Usuario Administrador.
 
-### **15 ¿Quiénes somos?**
-| **Codigo** |	RF-15 |
+### **14 ¿Quiénes somos?**
+| **Codigo** |	RF-14 |
 | ----------- | ----------- |
 | **Nombre** | ¿Quiénes somos?   |
 | **Prioridad del Negocio** | Bajo |
 | **Descripción** | Este apartado esta dedicado a mostrar la información de la plataforma y a que está orientada la misma. Contemplara la misión, visión y los contactos de los encargados de la plataforma.  |
 | **Validación** | Ninguna solo es informativa. |
 
-![RF15](RF15.png)
+![RF14](RF14.png)
+### **Figura 14** Modulo informativo
+
 
 ## **Conclusión**
 Concluido el análisis minucioso de los requerimientos necesarios para la la plataforma de crowfunding "Waliki",
